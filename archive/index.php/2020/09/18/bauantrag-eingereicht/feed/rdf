@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Bauantrag eingereicht &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-09-18T16:39:32Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/09/18/bauantrag-eingereicht/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/09/18/bauantrag-eingereicht/">
+	<title>Bauantrag eingereicht</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/09/18/bauantrag-eingereicht/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2020-09-18T16:39:31Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Nachdem die Planung für den 1. Bauabschnitt nun abgeschlossen ist, können wir zum Ende der 38. Kalenderwoche bei der Genehmigungsbehörde Stadtentwicklungsamt Treptow-Köpenick den Bauantrag einreichen. Bestandteil des Bauantrags ist eine Genehmigungsplanung, in die auch Ihre Anregungen zum Wohnumfeld eingeflossen sind. Gemäß der Planung sollen 170 Wohneinheiten und ein Gemeinschaftsraum im 1. Bauabschnitt neu gebaut werden.]]></description>
+		<content:encoded><![CDATA[
+<p>Nachdem die Planung für den 1. Bauabschnitt nun abgeschlossen ist, können wir zum Ende der 38. Kalenderwoche bei der Genehmigungsbehörde Stadtentwicklungsamt Treptow-Köpenick den Bauantrag einreichen. Bestandteil des Bauantrags ist eine Genehmigungsplanung, in die auch Ihre Anregungen zum Wohnumfeld eingeflossen sind. Gemäß der Planung sollen 170 Wohneinheiten und ein Gemeinschaftsraum im 1. Bauabschnitt neu gebaut werden.</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="529" author="degewo">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

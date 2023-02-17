@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Abstimmung: Eine Werkstatt im Haus &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-02-15T12:18:57Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/">
+	<title>Abstimmung: Eine Werkstatt im Haus</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/</link>
+
+	<dc:creator><![CDATA[Gewobag]]></dc:creator>
+	<dc:date>2020-02-15T12:18:57Z</dc:date>
+			<dc:subject><![CDATA[Bülow90]]></dc:subject>
+		<dc:subject><![CDATA[Abstimmung]]></dc:subject>
+
+			<description><![CDATA[In der Bülow90 wird es zwei Werkstattbereiche geben, in denen man handwerklich arbeiten kann. Eine Grobwerkstatt für Arbeiten, die Dreck und/oder Lärm verursachen und eine Feinwerkstatt, für ruhigere und sauberere Arbeiten. Wir würden gerne verschiedene Arbeitsmöglichkeiten anbieten, aber der Platz ist begrenzt. Welche Ausstattung wäre Ihnen am Wichtigsten? Holzwerkstatt (z.B.: Sägen, Drechseln, Schraubzwingen etc) Fahrradreparaturwerkstatt &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/" class="more-link"><span class="screen-reader-text">Abstimmung: Eine Werkstatt im Haus</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>In der Bülow90 wird es zwei Werkstattbereiche geben, in denen man handwerklich arbeiten kann. Eine Grobwerkstatt für Arbeiten, die Dreck und/oder Lärm verursachen und eine Feinwerkstatt, für ruhigere und sauberere Arbeiten. Wir würden gerne verschiedene Arbeitsmöglichkeiten anbieten, aber der Platz ist begrenzt.</p>
+
+
+
+<p>Welche Ausstattung wäre Ihnen am Wichtigsten?</p>
+
+
+
+<ol><li>Holzwerkstatt (z.B.: Sägen, Drechseln, Schraubzwingen etc)</li><li>Fahrradreparaturwerkstatt (z.B.: Fahrradständer, Spezialwerkzeug etc)</li><li>Töpferwerkstatt (z.B.: Töpferscheiben, Ofen etc)</li><li>Textilwerkstatt (z.B.: Nähmaschine, Overlock, Strickmaschine etc)</li><li>Elektronikwerkstatt (z.B.: Messgeräte, Lötkolben, Feinwerkzeug etc)</li><li>Copyshop (z.B.: A3 Laserdrucker, Scanner, Schneidematten, Laminiergerät etc)</li><li>3D Drucken</li></ol>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="464" author="Gewobag">
+[]
+</bbbwpfiles>
+
+<bbbwpvoting url="https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/">
+  <type>tokens</type>
+  <start>15.02.2020 13:00:00</start>
+  <end>31.03.2020 23:59:59</end>
+  <question>"Welche Ausstattung w\u00e4re Ihnen am Wichtigsten?"</question>
+  <options>["Holzwerkstatt (z.B.: S\u00e4gen, Drechseln, Schraubzwingen etc)","Fahrradreparaturwerkstatt (z.B.: Fahrradst\u00e4nder, Spezialwerkzeug etc)","T\u00f6pferwerkstatt (z.B.: T\u00f6pferscheiben, Ofen etc)","Textilwerkstatt (z.B.: N\u00e4hmaschine, Overlock, Strickmaschine etc)","Elektronikwerkstatt (z.B.: Messger\u00e4te, L\u00f6tkolben, Feinwerkzeug etc)","Copyshop (z.B.: A3 Laserdrucker, Scanner, Schneidematten, Laminierger\u00e4t etc)","3D Drucken"]</options>
+</bbbwpvoting>
+</item>
+</rdf:RDF>

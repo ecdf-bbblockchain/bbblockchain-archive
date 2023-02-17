@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Änderungen im Bauplan &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2022-07-02T09:22:57Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2022/06/21/aenderungen-im-bauplan/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2022/06/21/aenderungen-im-bauplan/">
+	<title>Änderungen im Bauplan</title>
+	<link>https://cloud.bbblockchain.de/index.php/2022/06/21/aenderungen-im-bauplan/</link>
+
+	<dc:creator><![CDATA[housing_lndw]]></dc:creator>
+	<dc:date>2022-06-21T10:22:09Z</dc:date>
+			<dc:subject><![CDATA[LNDW]]></dc:subject>
+
+			<description><![CDATA[In der zweiten Phase des Bauprojekts wird die Zahl der zusätzlich zu bauenden Wohnungen von 280 auf 370 erhöht. Daher wird ein zusätzlicher Block im Bereich des derzeitigen Innenhofs gebaut und einige Bäume werden gefällt.]]></description>
+		<content:encoded><![CDATA[
+<p>In der zweiten Phase des Bauprojekts wird die Zahl der zusätzlich zu bauenden Wohnungen von 280 auf 370 erhöht.</p>
+
+
+
+<p>Daher wird ein zusätzlicher Block im Bereich des derzeitigen Innenhofs gebaut und einige Bäume werden gefällt.</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="597" author="housing_lndw">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

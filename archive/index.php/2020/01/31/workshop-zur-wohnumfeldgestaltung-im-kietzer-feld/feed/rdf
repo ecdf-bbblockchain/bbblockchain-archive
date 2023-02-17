@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Workshop zur Wohnumfeldgestaltung im Kietzer Feld &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-01-31T12:36:00Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/01/31/workshop-zur-wohnumfeldgestaltung-im-kietzer-feld/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/01/31/workshop-zur-wohnumfeldgestaltung-im-kietzer-feld/">
+	<title>Workshop zur Wohnumfeldgestaltung im Kietzer Feld</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/01/31/workshop-zur-wohnumfeldgestaltung-im-kietzer-feld/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2020-01-31T12:35:59Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Am 15.01.2020 in der Zeit von 17.00 – 19.00 Uhr fand der erste Workshop zur Wohnumgeldgestaltung des Kietzer Feldes statt. Rund 30 Mieterinnen und Mieter fanden den Weg in den Kietz Klub Köpenick. Im Rahmen des Workshops hatten die Teilnehmenden die Möglichkeit, ihre Bedarfe und Ideen zu möglichen Gestaltungsvarianten der zukünftigen Grün- und Freiräume im &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/01/31/workshop-zur-wohnumfeldgestaltung-im-kietzer-feld/" class="more-link"><span class="screen-reader-text">Workshop zur Wohnumfeldgestaltung im Kietzer Feld</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p><strong>Am 15.01.2020 in der Zeit von 17.00 – 19.00 Uhr fand der erste Workshop zur Wohnumgeldgestaltung des Kietzer Feldes statt. </strong></p>
+
+
+
+<p>Rund 30 Mieterinnen und Mieter fanden den Weg in den Kietz Klub Köpenick. Im Rahmen des Workshops hatten die Teilnehmenden die Möglichkeit, ihre Bedarfe und Ideen zu möglichen Gestaltungsvarianten der zukünftigen Grün- und Freiräume im Kietzer Feld näher zu beschreiben. </p>
+
+
+
+<figure class="wp-block-image size-large"><img width="2500" height="1656" src="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/01/bbblockchain_workshop_DSC_0202.jpg" alt="degewo workshop Partizipation" class="wp-image-412" /></figure>
+
+
+
+<p><strong>Die Gespräche fanden an drei Thementischen zu folgenden Themen statt: </strong></p>
+
+
+
+<p>• Thementisch 1: Grünflächen, Natur- und Artenschutz<br>• Thementisch 2: Aufenthaltsorte und Spielflächen <br>• Thementisch 3: Fahrrad- und Fußwege im Quartier, Müllplätze und Sauberkeit </p>
+
+
+
+<p>An den Thementischen wurde angeregt und teils kontrovers diskutiert. Viele Anregungen gab es zum Schutz der Flora und Fauna im Wohngebiet wie z.B. Nistkästen, Vogelhecken, Begrünung als Schall- und Sichtschutz sowie Blühwiesen. Auch Treffpunkte im Quartier wie Gemeinschafts-/Mietergärten, Spielplätze, Sitzecken für verschiedene Zielgruppen sowie ein Raum für die Nachbarschaft wurden diskutiert. Zudem gab es Vorschläge zur Gestaltung zukünftiger Fahrradstellplätze und neuer Orte für den Hausmüll. Sicherheit und eine gute Beleuchtung waren den Teilnehmenden dabei besonders wichtig. </p>
+
+
+
+<p>Die Ergebnisse des Workshops werden Ihnen in einer Planungszeitung veröffentlicht und bei der weiteren Planung berücksichtigt. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2500" height="1656" src="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/01/bbblockchain_workshop_DSC_0119.jpg" alt="degewo Workshop Kietzer Feld" class="wp-image-411" /></figure>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="409" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2020\/01\/bbblockchain_workshop_DSC_0202.jpg","https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2020\/01\/bbblockchain_workshop_DSC_0119.jpg"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

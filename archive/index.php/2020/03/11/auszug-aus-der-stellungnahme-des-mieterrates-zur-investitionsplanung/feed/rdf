@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Auszug aus der Stellungnahme des Mieterrates zur Investitionsplanung &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-03-11T20:21:21Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/03/11/auszug-aus-der-stellungnahme-des-mieterrates-zur-investitionsplanung/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/03/11/auszug-aus-der-stellungnahme-des-mieterrates-zur-investitionsplanung/">
+	<title>Auszug aus der Stellungnahme des Mieterrates zur Investitionsplanung</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/03/11/auszug-aus-der-stellungnahme-des-mieterrates-zur-investitionsplanung/</link>
+
+	<dc:creator><![CDATA[mieterrat_degewo]]></dc:creator>
+	<dc:date>2020-03-11T20:21:21Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[23.11.19: (…) Als Mieterrat begrüßen wir die geplanten Investitionen, damit degewo auch einen erheblichen Beitrag zur Schaffung von bezahlbarem Wohnraum in Berlin leisten kann und darf. Grundsätzlich sind die in den letzten Jahren eingeschlagenen Wege zur Beteiligung der Mieter von degewo sinnvoll und begrüßenswert. Dazu zählt nicht nur die Vorstellungen der Planungen im Mieterrat sondern &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/03/11/auszug-aus-der-stellungnahme-des-mieterrates-zur-investitionsplanung/" class="more-link"><span class="screen-reader-text">Auszug aus der Stellungnahme des Mieterrates zur Investitionsplanung</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>23.11.19:<br>
+(…) Als Mieterrat begrüßen wir die geplanten Investitionen, damit degewo auch einen erheblichen Beitrag zur Schaffung von bezahlbarem Wohnraum in Berlin leisten kann und darf.</p>
+
+
+
+<p>Grundsätzlich sind die in den letzten Jahren eingeschlagenen Wege zur Beteiligung der Mieter von degewo sinnvoll und begrüßenswert. Dazu zählt nicht nur die Vorstellungen der Planungen im Mieterrat sondern auch die direkte Kommunikation mit den Mietern. Aber auch Mieter anderer Wohnungsunternehmen, die in unmittelbarer Nachbarschaft leben und egal ob diese bei „Deutsche Wohnen“, bei akelius oder in einer Genossenschaft wohnen, dürfen dabei nicht vergessen werden. Denn auch diese werden meist durch die Bauvorhaben direkt oder indirekt betroffen sein – angefangen von Halteverboten bis hin zu Lärm und Dreck vor der Haustür, am Balkon oder vor dem Schlafzimmerfenster.</p>
+
+
+
+<p>Wichtig für uns als Mieterrat ist es, dass die Mieter frühzeitig über mögliche Bauvorhaben informiert werden und nicht wenige Wochen vor Baubeginn. Die Veranstaltungen im Kietzer Feld sowie in Oberschöneweide sind ein guter Anfang – jedoch bei etlichen anderen Vorhaben lassen solche Informationsveranstaltungen noch auf sich warten oder finden aus unserer Sicht teilweise viel zu spät statt.</p>
+
+
+
+<p>(…)</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="491" author="mieterrat_degewo">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

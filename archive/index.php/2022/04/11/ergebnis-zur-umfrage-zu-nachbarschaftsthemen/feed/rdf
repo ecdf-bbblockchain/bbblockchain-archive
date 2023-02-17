@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Ergebnis zur Umfrage zu Nachbarschaftsthemen &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2022-04-11T08:39:46Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2022/04/11/ergebnis-zur-umfrage-zu-nachbarschaftsthemen/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2022/04/11/ergebnis-zur-umfrage-zu-nachbarschaftsthemen/">
+	<title>Ergebnis zur Umfrage zu Nachbarschaftsthemen</title>
+	<link>https://cloud.bbblockchain.de/index.php/2022/04/11/ergebnis-zur-umfrage-zu-nachbarschaftsthemen/</link>
+
+	<dc:creator><![CDATA[degewo_2]]></dc:creator>
+	<dc:date>2022-04-11T08:39:46Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Die Umfrage zu Nachbarschaftsthemen ist beendet. Mitgemacht haben 18 Mieterinnen und Mieter. Vielen Dank für Ihre Teilnahme! Von den 18 Teilnehmern begrüßen 13 die Einrichtung eines Nachbarschaftstreffs in der wachsenden Siedlung. Fünf Befragte haben kein Interesse daran. Ein Raum für Treffpunkt und Austausch, Hobbygruppen, thematische Veranstaltungen sowie Raumüberlassungen für kleine Feiern oder Kindergeburtstage – das &#8230; <a href="https://cloud.bbblockchain.de/index.php/2022/04/11/ergebnis-zur-umfrage-zu-nachbarschaftsthemen/" class="more-link"><span class="screen-reader-text">Ergebnis zur Umfrage zu Nachbarschaftsthemen</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>Die Umfrage zu Nachbarschaftsthemen ist beendet. Mitgemacht haben 18 Mieterinnen und Mieter. Vielen Dank für Ihre Teilnahme!</p>
+
+
+
+<p>Von den 18 Teilnehmern begrüßen 13 die Einrichtung eines Nachbarschaftstreffs in der wachsenden Siedlung. Fünf Befragte haben kein Interesse daran. Ein Raum für Treffpunkt und Austausch, Hobbygruppen, thematische Veranstaltungen sowie Raumüberlassungen für kleine Feiern oder Kindergeburtstage – das sind Angebote, die dabei von besonderem Interesse sind.</p>
+
+
+
+<p>Die geplanten Outdoor-Fitness-Geräte finden ebenfalls Anklang. 11 der Befragten begrüßen die Aufstellung der Geräte und wollen diese zum Teil auch nutzen.<br>Das geplante Lastenrad für das Kietzer Feld wollen 8 Befragte eventuell oder auf jeden Fall ausprobieren. 7 Befragte freuen sich auf den Gemeinschaftsgarten, würden diesen besuchen oder gar mitgärtnern.</p>
+
+
+
+<p>Sollten Sie keine Gelegenheit gehabt haben, an der Online-Befragung teilzunehmen, dann schreiben Sie gerne eine Email an <a href="mailto:kietzerfeld@degewo.de">kietzerfeld@degewo.de</a> </p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="587" author="degewo_2">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

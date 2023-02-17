@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Informationsschreiben: Terminvormerkung Mieterinformationsveranstaltung &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2019-09-30T09:18:33Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2019/09/27/terminvormerkung-mieterinformationsveranstaltung/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2019/09/27/terminvormerkung-mieterinformationsveranstaltung/">
+	<title>Informationsschreiben: Terminvormerkung Mieterinformationsveranstaltung</title>
+	<link>https://cloud.bbblockchain.de/index.php/2019/09/27/terminvormerkung-mieterinformationsveranstaltung/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2019-09-27T09:49:49Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Sehr geehrte Mieterinnen und Mieter, in unserem Schreiben vom 24. Mai 2019 teilten wir Ihnen mit, dass es zum geplanten Bauvorhaben in Ihrem Quartier eine Informationsveranstaltung geben wird. Wir möchten Sie bitten, sich schon jetzt Montag, den 16. September 2019 zu 19:00 Uhr frei zu halten. Eine persönliche Einladung zur Veranstaltung mit ergänzenden Angaben werden &#8230; <a href="https://cloud.bbblockchain.de/index.php/2019/09/27/terminvormerkung-mieterinformationsveranstaltung/" class="more-link"><span class="screen-reader-text">Informationsschreiben: Terminvormerkung Mieterinformationsveranstaltung</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/190814__degewo_Hausaushang_Einladung.pdf">190814__degewo_Hausaushang_Einladung</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/190814__degewo_Hausaushang_Einladung.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+
+
+
+<p>Sehr geehrte Mieterinnen und Mieter,</p>
+
+
+
+<p>in unserem Schreiben vom 24. Mai 2019 teilten wir Ihnen mit, dass es zum geplanten Bauvorhaben in Ihrem Quartier eine Informationsveranstaltung geben wird.</p>
+
+
+
+<p>Wir möchten Sie bitten, sich schon jetzt <strong>Montag, den 16. September 2019 zu 19:00 Uhr</strong> frei zu halten.</p>
+
+
+
+<p>Eine persönliche Einladung zur Veranstaltung mit ergänzenden Angaben werden Sie in den nächsten Tagen in Ihrem Briefkasten finden.</p>
+
+
+
+<p>Mit freundlichen Grüßen</p>
+
+
+
+<p>Ihr Kundenzentrum Köpenick</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="226" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2019\/09\/190814__degewo_Hausaushang_Einladung.pdf"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

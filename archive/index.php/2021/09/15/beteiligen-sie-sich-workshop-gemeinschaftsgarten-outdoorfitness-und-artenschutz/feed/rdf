@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Beteiligen Sie sich! Workshop Gemeinschaftsgarten, Outdoorfitness und Artenschutz &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2021-09-15T12:20:11Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2021/09/15/beteiligen-sie-sich-workshop-gemeinschaftsgarten-outdoorfitness-und-artenschutz/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2021/09/15/beteiligen-sie-sich-workshop-gemeinschaftsgarten-outdoorfitness-und-artenschutz/">
+	<title>Beteiligen Sie sich! Workshop Gemeinschaftsgarten, Outdoorfitness und Artenschutz</title>
+	<link>https://cloud.bbblockchain.de/index.php/2021/09/15/beteiligen-sie-sich-workshop-gemeinschaftsgarten-outdoorfitness-und-artenschutz/</link>
+
+	<dc:creator><![CDATA[degewo_2]]></dc:creator>
+	<dc:date>2021-09-15T12:20:10Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Wir laden alle Mieter und Anwohner des Quartiers Kietzer Feld herzlich zum dritten Workshop zur Wohnumfeldgestaltung im Kietzer Feld am 21. September 2021 von 17:00 bis ca. 19:00 Uhr ein. Im Fokus der Veranstaltung stehen folgende Themen: Informationen zu den Maßnahmen für den Artenschutz Mitwirkung an der Gestaltung und Verortung der Outdoorsportgeräte Mitwirkung an Konzept &#8230; <a href="https://cloud.bbblockchain.de/index.php/2021/09/15/beteiligen-sie-sich-workshop-gemeinschaftsgarten-outdoorfitness-und-artenschutz/" class="more-link"><span class="screen-reader-text">Beteiligen Sie sich! Workshop Gemeinschaftsgarten, Outdoorfitness und Artenschutz</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-table"><table><tbody><tr><td></td></tr></tbody></table></figure>
+
+
+
+<p>Wir laden alle Mieter und Anwohner des Quartiers Kietzer Feld herzlich zum dritten Workshop zur Wohnumfeldgestaltung im Kietzer Feld am <strong>21. September 2021 von 17:00 bis ca. 19:00 Uhr</strong> ein. Im Fokus der Veranstaltung stehen folgende Themen:</p>
+
+
+
+<ul><li>Informationen zu den Maßnahmen für den Artenschutz</li><li>Mitwirkung an der Gestaltung und Verortung der Outdoorsportgeräte</li><li>Mitwirkung an Konzept und Gestaltung des Gemeinschaftsgartens</li></ul>
+
+
+
+<p>Um die Einhaltung der Hygienevorschriften zu erleichtern, wird der Workshop auf der Wiese <strong>zwischen den Wohnblöcken Am Kietzer Feld 17-23 und Igelsteig 1-7, </strong>am Ort des zukünftigen Gemeinschaftsgartens, stattfinden. Vorkehrungen für eine Durchführung bei schlechtem Wetter werden getroffen. Bitte beachten Sie die zu diesem Zeitpunkt gültigen Schutz- und Hygieneregeln.</p>
+
+
+
+<p>Die Anzahl der Teilnehmenden ist begrenzt. Wir bitten daher um Anmeldung über kietzerfeld@degewo.der oder telefonisch unter 030/26485-5000.</p>
+
+
+
+<p>Wir freuen uns über Ihr Interesse.</p>
+
+
+
+<p>Ihre degewo</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="570" author="degewo_2">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

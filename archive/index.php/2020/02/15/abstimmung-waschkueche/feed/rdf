@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Abstimmung: Waschküche &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-02-15T12:18:42Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-waschkueche/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-waschkueche/">
+	<title>Abstimmung: Waschküche</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-waschkueche/</link>
+
+	<dc:creator><![CDATA[Gewobag]]></dc:creator>
+	<dc:date>2020-02-15T11:50:44Z</dc:date>
+			<dc:subject><![CDATA[Bülow90]]></dc:subject>
+		<dc:subject><![CDATA[Abstimmung]]></dc:subject>
+
+			<description><![CDATA[Wir fragen uns, ob es noch zeitgemäß ist, eine Waschmaschine bzw. einen Trocknungsraum für alle Mieter im Haus oder Anwohner bereitzustellen. Entscheiden Sie: wollen Sie eine Waschmaschine/Trocknerraum im Haus haben? Ja, würde ich auch selbst nutzen. Nein, ich nutze lieber meine eigene Waschmaschine. Waschmaschine brauche ich nicht, aber ein Trocknungsraum wäre gut.]]></description>
+		<content:encoded><![CDATA[
+<p>Wir fragen uns, ob es noch zeitgemäß ist, eine Waschmaschine bzw. einen Trocknungsraum für alle Mieter im Haus oder Anwohner bereitzustellen.</p>
+
+
+
+<p>Entscheiden Sie: wollen Sie eine Waschmaschine/Trocknerraum im Haus haben?</p>
+
+
+
+<ol><li>Ja, würde ich auch selbst nutzen.</li><li>Nein, ich nutze lieber meine eigene Waschmaschine.</li><li>Waschmaschine brauche ich nicht, aber ein Trocknungsraum wäre gut.</li></ol>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="467" author="Gewobag">
+[]
+</bbbwpfiles>
+
+<bbbwpvoting url="https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-waschkueche/">
+  <type>tokens</type>
+  <start>15.02.2020 13:00:00</start>
+  <end>31.03.2020 23:59:59</end>
+  <question>"Entscheiden Sie: wollen Sie eine Waschmaschine\/Trocknerraum im Haus haben?"</question>
+  <options>["Ja, w\u00fcrde ich auch selbst nutzen.","Nein, ich nutze lieber meine eigene Waschmaschine.","Waschmaschine brauche ich nicht, aber ein Trocknungsraum w\u00e4re gut."]</options>
+</bbbwpvoting>
+</item>
+</rdf:RDF>

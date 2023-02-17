@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>1. Mieterinformation &#8222;Kietzer Feld&#8220; &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2019-09-30T09:29:43Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2019/09/27/1-mieterinformation-kietzer-feld/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2019/09/27/1-mieterinformation-kietzer-feld/">
+	<title>1. Mieterinformation &#8222;Kietzer Feld&#8220;</title>
+	<link>https://cloud.bbblockchain.de/index.php/2019/09/27/1-mieterinformation-kietzer-feld/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2019-09-27T09:50:46Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Sehr geehrte Mieterinnen und Mieter, Sie haben sicher schon festgestellt, dass in Ihrem Wohngebiet Kietzer Feld derzeit verschiedene Vermessungsarbeiten und Baugrunduntersuchungen stattfinden. Diese sind notwendig, um einschätzen zu können, ob eine Ergänzung des Kietzer Feldes durch den Bau weiterer Wohnungen grundsätzlich möglich ist. Aktuelle Vorplanungen sehen vor, in mehreren Bauabschnitten, beginnend voraussichtlich Ende 2020, rund &#8230; <a href="https://cloud.bbblockchain.de/index.php/2019/09/27/1-mieterinformation-kietzer-feld/" class="more-link"><span class="screen-reader-text">1. Mieterinformation &#8222;Kietzer Feld&#8220;</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/190524_degewo_Mieterinfo_unpers.pdf">190524_degewo_Mieterinfo_unpers</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/190524_degewo_Mieterinfo_unpers.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+
+
+
+<figure class="wp-block-image"><img alt="" /></figure>
+
+
+
+<p>Sehr geehrte Mieterinnen und Mieter,</p>
+
+
+
+<p>Sie haben sicher schon festgestellt, dass in Ihrem Wohngebiet Kietzer Feld derzeit verschiedene Vermessungsarbeiten und Baugrunduntersuchungen stattfinden. Diese sind notwendig, um einschätzen zu können, ob eine Ergänzung des Kietzer Feldes durch den Bau weiterer Wohnungen grundsätzlich möglich ist. Aktuelle Vorplanungen sehen vor, in mehreren Bauabschnitten, beginnend voraussichtlich Ende 2020, rund 300 Wohnungen in dem Quartier neu zu bauen. Es wird auch geprüft, inwieweit bestehende Gebäude um ein weiteres Geschoss erweitert werden können.</p>
+
+
+
+<p>Der Zuzug nach Berlin ist ungebrochen und wir benötigen viele neue Wohnungen in der Stadt. Dies ist der Grund für die Prüfung im Kietzer Feld. degewo hat als landeseigenes Wohnungsbauunternehmen den klar definierten Auftrag des Senats, neuen Wohnraum für Berlin zu schaffen. Mehr als 1.500 Wohnungen werden wir alleine in diesem Jahr an verschiedenen Standorten neu errichten. Auch in Köpenick gibt es gleich mehrere Bauvorhaben, die bereits fertig gestellt, im Bau oder in Planung sind.</p>
+
+
+
+<p>Sollte sich nach Abschluss der Bauuntersuchungen zeigen, dass eine Bestandsergänzung im Kietzer Feld möglich ist, werden wir Ihnen die Möglichkeit geben, Ihre Fragen, Anregungen, Wünsche und Bedenken zu diesem Vorhaben zu äußern. Dazu bereiten wir ein Mieter-Beteiligungsverfahren vor. Dieses startet voraussichtlich im Spätsommer 2019. Hierzu laden wir Sie noch gesondert ein.</p>
+
+
+
+<p>Haben Sie bereits jetzt Fragen, senden Sie uns eine E-Mail an: kietzerfeld@degewo.de. Wir sammeln Ihre Fragen und beantworten Sie Ihnen allen in der ersten geplanten Informationsveranstaltung. So stellen wir sicher, dass wir alle einen gleichen Informationsstand haben.</p>
+
+
+
+<p>Mit freundlichen Grüßen</p>
+
+
+
+<p>Ihr Kundenzentrum Köpenick</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="222" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2019\/09\/190524_degewo_Mieterinfo_unpers.pdf"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

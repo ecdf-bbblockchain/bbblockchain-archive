@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Ausstellung Bauvorhaben Kietzer Feld im Rathaus Köpenick sowie Online-Ausstellung &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-11-04T08:50:46Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/11/04/ausstellung-bauvorhaben-kietzer-feld-im-rathaus-koepenick-sowie-online-ausstellung/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/11/04/ausstellung-bauvorhaben-kietzer-feld-im-rathaus-koepenick-sowie-online-ausstellung/">
+	<title>Ausstellung Bauvorhaben Kietzer Feld im Rathaus Köpenick sowie Online-Ausstellung</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/11/04/ausstellung-bauvorhaben-kietzer-feld-im-rathaus-koepenick-sowie-online-ausstellung/</link>
+
+	<dc:creator><![CDATA[degewo_2]]></dc:creator>
+	<dc:date>2020-11-04T08:50:45Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Die Planungen zum ersten Bauabschnitt möchten wir Ihnen nun wie angekündigt vorstellen und gleichzeitig erste Vorplanungen zum zweiten Bauabschnitt gemeinsam erörtern. Dazu laden wir Sie zu einer Ausstellung ein. Die Ausstellung wird am Wochenende, den 7. und 8. November 2020 in der Zeit von 10.00 bis 17.00 Uhr für Sie geöffnet haben. Ort ist der &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/11/04/ausstellung-bauvorhaben-kietzer-feld-im-rathaus-koepenick-sowie-online-ausstellung/" class="more-link"><span class="screen-reader-text">Ausstellung Bauvorhaben Kietzer Feld im Rathaus Köpenick sowie Online-Ausstellung</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>Die Planungen zum ersten Bauabschnitt möchten wir Ihnen nun wie angekündigt vorstellen und gleichzeitig erste Vorplanungen zum zweiten Bauabschnitt gemeinsam erörtern. Dazu laden wir Sie zu einer <strong>Ausstellung</strong> ein. Die Ausstellung wird am Wochenende, den <strong>7. und 8. November 2020 in der Zeit von 10.00 bis 17.00 Uhr</strong> für Sie geöffnet haben. Ort ist der <strong>Rathaussaal im Rathaus Köpenick, </strong>Alt-Köpenick 21 in 12555 Berlin.</p>
+
+
+
+<p>Aufgrund der Corona-Pandemie ist der Zutritt zu der Ausstellung begrenzt. Der Ausstellungsbesuch ist <strong>ausschließlich mit vorheriger Anmeldung</strong> über unser Online-Buchungssystem möglich. Hier können Sie ein Zeitfenster für Ihren Besuch der Ausstellung auswählen und buchen. Das Kontingent pro Zeitfenster ist auf 45 Personen beschränkt. Wir bitten darum, pro Haushalt mit nur einer Person an der Ausstellung teilzunehmen.</p>
+
+
+
+<p>Link zu Anmeldung Ausstellung: <a href="http://www.degewo.de/AnmeldungAusstellungKietzerFeld">www.degewo.de/AnmeldungAusstellungKietzerFeld</a></p>
+
+
+
+<p>Bitte nutzen Sie alternativ auch unsere <strong>Onlineausstellung</strong>. Diese finden Sie im Internet unter folgendem Link: <a href="http://www.degewo.de/OnlineAusstellungKietzerFeld">www.degewo.de/OnlineAusstellungKietzerFeld</a></p>
+
+
+
+<p><br>Kennwort: <strong>k1etzerfeLD</strong></p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="539" author="degewo_2">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Notwendige Baumfällungen &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-09-28T08:26:06Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/09/28/notwendige-baumfaellungen/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/09/28/notwendige-baumfaellungen/">
+	<title>Notwendige Baumfällungen</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/09/28/notwendige-baumfaellungen/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2020-09-28T08:26:05Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Im Auftrag unseres Generalübernehmers hat ein Sachverständiger sämtliche Bäume im Kietzer Feld untersucht und geprüft, welche Bäume dem Neubau weichen müssen. Erst nach Prüfung des Amts und Vorlegen der Baumfällgenehmigungen können wir mitteilen, welche Bäume tatsächlich gefällt werden. Die Fällungen werden außerhalb der Schutzzeit zwischen Oktober und Februar erfolgen. Wir rechnen mit einem Beginn der &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/09/28/notwendige-baumfaellungen/" class="more-link"><span class="screen-reader-text">Notwendige Baumfällungen</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>Im Auftrag unseres Generalübernehmers hat ein Sachverständiger sämtliche Bäume im Kietzer Feld untersucht und geprüft, welche Bäume dem Neubau weichen müssen. Erst nach Prüfung des Amts und Vorlegen der Baumfällgenehmigungen können wir mitteilen, welche Bäume tatsächlich gefällt werden. Die Fällungen werden außerhalb der Schutzzeit zwischen Oktober und Februar erfolgen. Wir rechnen mit einem Beginn der Fällungen im Frühjahr 2021.</p>
+
+
+
+<p>Wir werden den gefällten Baumbestand großzügig ersetzen und Neupflanzungen vornehmen.</p>
+
+
+
+<p>Die blauen Markierungen auf den Bäumen dienten einer Bestandsaufnahme des Baumbestandes. Aus den Markierungen kann keine Ableitung für eventuell zu fällende Bäume getroffen werden.</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="532" author="degewo">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

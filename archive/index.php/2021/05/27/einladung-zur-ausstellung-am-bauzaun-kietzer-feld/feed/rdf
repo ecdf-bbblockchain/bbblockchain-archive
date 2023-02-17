@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Einladung zur Ausstellung am Bauzaun Kietzer Feld &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2021-05-27T10:20:45Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2021/05/27/einladung-zur-ausstellung-am-bauzaun-kietzer-feld/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2021/05/27/einladung-zur-ausstellung-am-bauzaun-kietzer-feld/">
+	<title>Einladung zur Ausstellung am Bauzaun Kietzer Feld</title>
+	<link>https://cloud.bbblockchain.de/index.php/2021/05/27/einladung-zur-ausstellung-am-bauzaun-kietzer-feld/</link>
+
+	<dc:creator><![CDATA[degewo_2]]></dc:creator>
+	<dc:date>2021-05-27T10:20:44Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Sie sind herzlich zur Ausstellung am Bauzaun vom 7. bis 21. Juni 2021 eingeladen.  In der Ausstellung informieren wir Sie über die abschließende Planung des 1. Bauabschnitts und die aktuelle Bauphase. Die Ausstellung finden Sie auf der Wiese zwischen den Wohnblöcken Am Kietzer Feld 17 &#8211; 23 und Igelsteig 1 &#8211; 7.   Bitte beachten Sie die allgemeinen &#8230; <a href="https://cloud.bbblockchain.de/index.php/2021/05/27/einladung-zur-ausstellung-am-bauzaun-kietzer-feld/" class="more-link"><span class="screen-reader-text">Einladung zur Ausstellung am Bauzaun Kietzer Feld</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>Sie sind herzlich zur Ausstellung am Bauzaun vom 7. bis 21. Juni 2021 eingeladen.  In der Ausstellung informieren wir Sie über die abschließende Planung des 1. Bauabschnitts und die aktuelle Bauphase. Die Ausstellung finden Sie auf der Wiese zwischen den Wohnblöcken Am Kietzer Feld 17 &#8211; 23 und Igelsteig 1 &#8211; 7.   Bitte beachten Sie die allgemeinen Schutzmaßnahmen zur Bekämpfung der Corona-Pandemie.</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="564" author="degewo_2">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

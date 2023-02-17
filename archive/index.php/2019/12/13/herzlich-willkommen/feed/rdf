@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Herzlich willkommen &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2019-12-13T13:06:15Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2019/12/13/herzlich-willkommen/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2019/12/13/herzlich-willkommen/">
+	<title>Herzlich willkommen</title>
+	<link>https://cloud.bbblockchain.de/index.php/2019/12/13/herzlich-willkommen/</link>
+
+	<dc:creator><![CDATA[bezirk_koepenick]]></dc:creator>
+	<dc:date>2019-12-13T13:06:15Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Das Bezirksamt Treptow-Köpenick begrüßt Sie recht herzlich auf der Partizipations-Plattform BBBlockchain für das Bauvorhaben Kietzer Feld. Künftig erhalten Sie Informationen, das Bauvorhaben betreffend, auch digital über BBBlockchain.]]></description>
+		<content:encoded><![CDATA[
+<p>Das Bezirksamt Treptow-Köpenick begrüßt Sie recht herzlich auf der Partizipations-Plattform BBBlockchain für das Bauvorhaben Kietzer Feld. Künftig erhalten Sie Informationen, das Bauvorhaben betreffend, auch digital über BBBlockchain.</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="363" author="bezirk_koepenick">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

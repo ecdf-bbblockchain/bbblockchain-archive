@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Umplanung im 2. Bauabschnitt &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2021-07-28T09:27:23Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2021/07/28/umplanung-im-2-bauabschnitt/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2021/07/28/umplanung-im-2-bauabschnitt/">
+	<title>Umplanung im 2. Bauabschnitt</title>
+	<link>https://cloud.bbblockchain.de/index.php/2021/07/28/umplanung-im-2-bauabschnitt/</link>
+
+	<dc:creator><![CDATA[degewo_2]]></dc:creator>
+	<dc:date>2021-07-28T09:27:23Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Im 2. Bauabschnitt wird es eine Umplanung geben. Im Bereich des derzeitigen Garagenhofes waren an der Straße Zur Nachtheide ein Wohngebäude sowie die Ausfahrt aus der geplanten Tiefgarage vorgesehen. Um Bäume und Sträucher zu schützen, entfällt dieses Wohngebäude. Stattdessen werden die dort vorgesehenen Wohnungen in einem geschlossenen Gebäuderiegel entlang der Wendenschlossstraße geplant.]]></description>
+		<content:encoded><![CDATA[
+<p>Im 2. Bauabschnitt wird es eine Umplanung geben. Im Bereich des derzeitigen Garagenhofes waren an der Straße Zur Nachtheide ein Wohngebäude sowie die Ausfahrt aus der geplanten Tiefgarage vorgesehen. Um Bäume und Sträucher zu schützen, entfällt dieses Wohngebäude. Stattdessen werden die dort vorgesehenen Wohnungen in einem geschlossenen Gebäuderiegel entlang der Wendenschlossstraße geplant. </p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="567" author="degewo_2">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

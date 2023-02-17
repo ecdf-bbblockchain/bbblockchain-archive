@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Nachverdichtung Kietzer Feld Verkehrliche Untersuchung &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-02-10T11:55:36Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/02/10/nachverdichtung-kietzer-feld-verkehrliche-untersuchung/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/02/10/nachverdichtung-kietzer-feld-verkehrliche-untersuchung/">
+	<title>Nachverdichtung Kietzer Feld Verkehrliche Untersuchung</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/02/10/nachverdichtung-kietzer-feld-verkehrliche-untersuchung/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2020-02-10T11:55:35Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[degewo plant die Nachverdichtung des Wohnquartiers Kietzer Feld. Hierzu sieht das Bezirksamt Treptow-Köpenick eine verkehrliche Untersuchung als notwendig an, da sich eine verkehrliche Erschließung auf Grund weiterer größerer Bauvorhaben im Untersuchungsgebiet Wendenschloßstraße ggf. schwieriger gestalten kann. Lesen Sie hier den Abschlussbericht (PDF, 888 KB):]]></description>
+		<content:encoded><![CDATA[
+<p>degewo plant die Nachverdichtung des Wohnquartiers Kietzer Feld. Hierzu sieht das Bezirksamt Treptow-Köpenick eine verkehrliche Untersuchung als notwendig an, da sich eine verkehrliche Erschließung auf Grund weiterer größerer Bauvorhaben im Untersuchungsgebiet Wendenschloßstraße ggf. schwieriger gestalten kann. <br><br><strong>Lesen Sie hier den Abschlussbericht (PDF, 888 KB): </strong></p>
+
+
+
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/02/A02_LK_Argus_-_Berlin_Kietzer_Feld_ergaenzende_Untersuchung_mit_Anlagen-1.pdf">Abschlussbericht_Nachverdichtung_Kietzer_Feld</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/02/A02_LK_Argus_-_Berlin_Kietzer_Feld_ergaenzende_Untersuchung_mit_Anlagen-1.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="437" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2020\/02\/A02_LK_Argus_-_Berlin_Kietzer_Feld_ergaenzende_Untersuchung_mit_Anlagen-1.pdf"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

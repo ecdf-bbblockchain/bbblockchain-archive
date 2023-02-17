@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Ausstellung zum Bauvorhaben und 2. Workshop zur Wohnumfeldgestaltung im Kietzer Feld &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-12-18T14:57:26Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/12/18/ausstellung-zum-bauvorhaben-und-2-workshop-zur-wohnumfeldgestaltung-im-kietzer-feld/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/12/18/ausstellung-zum-bauvorhaben-und-2-workshop-zur-wohnumfeldgestaltung-im-kietzer-feld/">
+	<title>Ausstellung zum Bauvorhaben und 2. Workshop zur Wohnumfeldgestaltung im Kietzer Feld</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/12/18/ausstellung-zum-bauvorhaben-und-2-workshop-zur-wohnumfeldgestaltung-im-kietzer-feld/</link>
+
+	<dc:creator><![CDATA[degewo_2]]></dc:creator>
+	<dc:date>2020-12-18T14:57:25Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Am 7. und 8. November 2020 fand im Ratssaal des Rathauses Köpenick die Informationsausstellung zum Bauvorhaben im Kietzer Feld statt. Die Ausstellungsinhalte waren vom 6. November bis zum 8. Dezember 2020 auch online verfügbar. Ebenfalls im Ratssaal fand am 17. November 2020 von 17.00 bis 19.00 Uhr der Beteiligungsworkshop zur Gestaltung des Wohnumfelds im 2. &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/12/18/ausstellung-zum-bauvorhaben-und-2-workshop-zur-wohnumfeldgestaltung-im-kietzer-feld/" class="more-link"><span class="screen-reader-text">Ausstellung zum Bauvorhaben und 2. Workshop zur Wohnumfeldgestaltung im Kietzer Feld</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>Am 7. und 8. November 2020 fand im Ratssaal des Rathauses Köpenick die Informationsausstellung zum Bauvorhaben im Kietzer Feld statt. Die Ausstellungsinhalte waren vom 6. November bis zum 8. Dezember 2020 auch online verfügbar. Ebenfalls im Ratssaal fand am 17. November 2020 von 17.00 bis 19.00 Uhr der Beteiligungsworkshop zur Gestaltung des Wohnumfelds im 2. Bauabschnitt statt.<br><br>Die Ausstellung informierte über den aktuellen Planungsstand. Im Fokus standen die Planungen für den 1. Bauabschnitt, Veränderungen im Wohngebiet während der anstehenden Bauphase sowie die Vorplanungen für den  2. Bauabschnitt. Wir freuen uns, dass trotz der aktuellen Bedingungen über 40 Interessierte den Weg ins Rathaus Köpenick gefunden haben. Die Online-Ausstellung wurde von über 130 Personen besucht. Am Beteiligungsworkshop nahmen zehn Mieterinnen und Mieter teil.       <br>      <br>Besucherinnen und Besucher der Ausstellung sowie die Teilnehmenden des Beteiligungsworkshops äußerten  viele gute Ideen zur Gestaltung des Wohnumfelds im 2. Bauabschnitt. Diese reichten von den Themen Sport- und Spielflächen, Begrünung und Maßnahmen für den Artenschutz hin zu Beleuchtung und Fahrradmobilität im Wohngebiet. Wir bedanken uns für alle Beiträge, die wir nun auf ihre Umsetzbarkeit unter Berücksichtigung städtebaulicher, gestalterischer, nachhaltiger und wirtschaftlicher Aspekte prüfen werden. Die Ergebnisse werden in unserer weiteren Planung berücksichtigt. Für Frühjahr 2021 ist die nächste Ausgabe der Planungszeitung geplant.<br><br></p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="543" author="degewo_2">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

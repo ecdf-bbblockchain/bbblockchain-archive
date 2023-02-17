@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Umfrage: Fahrradstellplätze &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-02-15T11:52:10Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/">
+	<title>Umfrage: Fahrradstellplätze</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/</link>
+
+	<dc:creator><![CDATA[Gewobag]]></dc:creator>
+	<dc:date>2020-02-15T11:52:10Z</dc:date>
+			<dc:subject><![CDATA[Bülow90]]></dc:subject>
+		<dc:subject><![CDATA[Umfrage]]></dc:subject>
+
+			<description><![CDATA[Wir planen ca. 200 Stellplätze für Fahrräder ein. Dazu haben wir mehrere Optionen erarbeitet. In der engeren Wahl sind zurzeit ein Fahrradturm im Garten oder der klassische Fahrradkeller. Der Fahrradturm schließt jedes Rad sicher und trocken ein und gibt es innerhalb von 20 Sekunden wieder ab. Eine spannende Lösung, die aber erhebliche Kosten verursacht, deshalb &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/" class="more-link"><span class="screen-reader-text">Umfrage: Fahrradstellplätze</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>Wir planen ca. 200 Stellplätze für Fahrräder ein. Dazu haben wir mehrere Optionen erarbeitet. In der engeren Wahl sind zurzeit ein Fahrradturm im Garten oder der klassische Fahrradkeller. <br> Der Fahrradturm schließt jedes Rad sicher und trocken ein und gibt es innerhalb von 20 Sekunden wieder ab. Eine spannende Lösung, die aber erhebliche Kosten verursacht, deshalb fragen wir uns, ob Sie für die Fahrradturm Lösung zahlen würden oder lieber die kostenlose Kellervariante bevorzugen würden.</p>
+
+
+
+<p>Würden Sie für die Fahrradturm Lösung zahlen oder lieber die kostenlose Kellervariante bevorzugen?</p>
+
+
+
+<ol><li>Mir reicht die kostenlose Kellervariante.</li><li>Für die Nutzung des Fahrradturms würde ich maximal € 5 pro Monat zahlen.</li><li>Ich würde maximal € 10 pro Monat zahlen.</li><li>Ich würde maximal € 15 pro Monat zahlen.</li><li>Ich würde maximal € 20 pro Monat zahlen.</li></ol>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="457" author="Gewobag">
+[]
+</bbbwpfiles>
+
+<bbbwpvoting url="https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/">
+  <type>tokens</type>
+  <start>15.02.2020 13:00:00</start>
+  <end>31.03.2020 23:59:59</end>
+  <question>"W\u00fcrden Sie f\u00fcr die Fahrradturm L\u00f6sung zahlen oder lieber die kostenlose Kellervariante bevorzugen?"</question>
+  <options>["Mir reicht die kostenlose Kellervariante.","F\u00fcr die Nutzung des Fahrradturms w\u00fcrde ich maximal \u20ac 5 pro Monat zahlen.","Ich w\u00fcrde maximal \u20ac 10 pro Monat zahlen.","Ich w\u00fcrde maximal \u20ac 15 pro Monat zahlen.","Ich w\u00fcrde maximal \u20ac 20 pro Monat zahlen."]</options>
+</bbbwpvoting>
+</item>
+</rdf:RDF>

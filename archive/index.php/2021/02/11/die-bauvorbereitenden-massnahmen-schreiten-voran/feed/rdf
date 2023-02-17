@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Die bauvorbereitenden Maßnahmen schreiten voran &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2021-02-11T07:19:26Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2021/02/11/die-bauvorbereitenden-massnahmen-schreiten-voran/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2021/02/11/die-bauvorbereitenden-massnahmen-schreiten-voran/">
+	<title>Die bauvorbereitenden Maßnahmen schreiten voran</title>
+	<link>https://cloud.bbblockchain.de/index.php/2021/02/11/die-bauvorbereitenden-massnahmen-schreiten-voran/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2021-02-11T07:19:25Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Am 9. Februar wurden die Bauzäune gemäß Baustelleneinrichtungsplan gestellt. Außerdem werden die Gebäude grob eingemessen.]]></description>
+		<content:encoded><![CDATA[
+<p>Am 9. Februar wurden die Bauzäune gemäß Baustelleneinrichtungsplan gestellt. Außerdem werden die Gebäude grob eingemessen.</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="550" author="degewo">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

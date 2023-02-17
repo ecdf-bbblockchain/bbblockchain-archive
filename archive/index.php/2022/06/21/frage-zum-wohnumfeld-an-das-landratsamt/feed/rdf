@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Frage zum Wohnumfeld an das Landratsamt &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2022-07-02T09:22:09Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2022/06/21/frage-zum-wohnumfeld-an-das-landratsamt/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2022/06/21/frage-zum-wohnumfeld-an-das-landratsamt/">
+	<title>Frage zum Wohnumfeld an das Landratsamt</title>
+	<link>https://cloud.bbblockchain.de/index.php/2022/06/21/frage-zum-wohnumfeld-an-das-landratsamt/</link>
+
+	<dc:creator><![CDATA[bezirk_lndw]]></dc:creator>
+	<dc:date>2022-06-21T10:21:19Z</dc:date>
+			<dc:subject><![CDATA[LNDW]]></dc:subject>
+
+			<description><![CDATA[Werden zusätzliche Parkplätze zur Verfügung gestellt, um die Parkplätze zu ersetzen, die den Mieterinnen und Mietern während der Bauphasen nicht zur Verfügung stehen? Zusätzliche vorübergehende Parkplätze werden in der Tiefgaragein der Zodenstraße zur Verfügung gestellt. Die Gemeinde LNDW wird an die derzeitigen Mieterinnen und Mietern kostenlose Ausweise für den Zugang zur Tiefgarage verteilen. Die Mieterinnen &#8230; <a href="https://cloud.bbblockchain.de/index.php/2022/06/21/frage-zum-wohnumfeld-an-das-landratsamt/" class="more-link"><span class="screen-reader-text">Frage zum Wohnumfeld an das Landratsamt</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p><strong>Werden zusätzliche Parkplätze zur Verfügung gestellt, um die Parkplätze zu ersetzen, die den Mieterinnen und Mietern während der Bauphasen nicht zur Verfügung stehen?</strong></p>
+
+
+
+<p>Zusätzliche vorübergehende Parkplätze werden in der Tiefgaragein der Zodenstraße zur Verfügung gestellt. Die Gemeinde LNDW wird an die derzeitigen Mieterinnen und Mietern kostenlose Ausweise für den Zugang zur Tiefgarage verteilen. Die Mieterinnen und Mieter werden die kostenlosen Ausweise in den kommenden Monaten per Post erhalten.</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="595" author="bezirk_lndw">
+[]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

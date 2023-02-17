@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Umfrage: Dachgarten &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-02-15T11:52:24Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/">
+	<title>Umfrage: Dachgarten</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/</link>
+
+	<dc:creator><![CDATA[Gewobag]]></dc:creator>
+	<dc:date>2020-02-15T11:52:24Z</dc:date>
+			<dc:subject><![CDATA[Bülow90]]></dc:subject>
+		<dc:subject><![CDATA[Umfrage]]></dc:subject>
+
+			<description><![CDATA[Wir planen einen Teil des Daches so zu gestalten, dass er als Dachgarten — auch für den Anbau von Obst und Gemüse — genutzt werden kann. Würden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort gärtnern wollen? Nein, der Dachgarten interessiert mich nicht. Ich würde den Dachgarten zur Erholung nutzen, mehr nicht. Ich könnte mir &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/" class="more-link"><span class="screen-reader-text">Umfrage: Dachgarten</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>Wir planen einen Teil des Daches so zu gestalten, dass er als Dachgarten — auch für den Anbau von Obst und Gemüse — genutzt werden kann. </p>
+
+
+
+<p>Würden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort gärtnern wollen?</p>
+
+
+
+<ol><li>Nein, der Dachgarten interessiert mich nicht.</li><li>Ich würde den Dachgarten zur Erholung nutzen, mehr nicht.</li><li>Ich könnte mir vorstellen, dort auch aktiv mit zu gärtnern.</li><li>Ich bin leidenschaftlicher Gärtner und könnte mir gut vorstellen, anderen zu zeigen, wie es geht.</li></ol>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="459" author="Gewobag">
+[]
+</bbbwpfiles>
+
+<bbbwpvoting url="https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/">
+  <type>tokens</type>
+  <start>15.02.2020 13:00:00</start>
+  <end>31.03.2020 23:59:59</end>
+  <question>"W\u00fcrden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort g\u00e4rtnern wollen?"</question>
+  <options>["Nein, der Dachgarten interessiert mich nicht.","Ich w\u00fcrde den Dachgarten zur Erholung nutzen, mehr nicht.","Ich k\u00f6nnte mir vorstellen, dort auch aktiv mit zu g\u00e4rtnern.","Ich bin leidenschaftlicher G\u00e4rtner und k\u00f6nnte mir gut vorstellen, anderen zu zeigen, wie es geht."]</options>
+</bbbwpvoting>
+</item>
+</rdf:RDF>

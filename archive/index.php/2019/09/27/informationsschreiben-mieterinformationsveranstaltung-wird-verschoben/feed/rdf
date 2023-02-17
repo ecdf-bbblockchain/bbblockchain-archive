@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Informationsschreiben: Mieterinformationsveranstaltung wird verschoben &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2019-09-30T09:16:32Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2019/09/27/informationsschreiben-mieterinformationsveranstaltung-wird-verschoben/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2019/09/27/informationsschreiben-mieterinformationsveranstaltung-wird-verschoben/">
+	<title>Informationsschreiben: Mieterinformationsveranstaltung wird verschoben</title>
+	<link>https://cloud.bbblockchain.de/index.php/2019/09/27/informationsschreiben-mieterinformationsveranstaltung-wird-verschoben/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2019-09-27T09:53:47Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Sehr geehrte Mieterinnen und Mieter, wir freuen uns, dass viele unserer Mieterinnen und Mieter die Möglichkeiten nutzen, mit uns persönlich ins Gespräch zu kommen. Sicherlich haben auch Sie sich die Informationsveranstaltung am kommenden Montag in Ihrem Kalender notiert. Die Erfahrung einer ähnlichen Veranstaltung in der letzten Woche zeigt, dass das Interesse weitaus größer sein könnte, &#8230; <a href="https://cloud.bbblockchain.de/index.php/2019/09/27/informationsschreiben-mieterinformationsveranstaltung-wird-verschoben/" class="more-link"><span class="screen-reader-text">Informationsschreiben: Mieterinformationsveranstaltung wird verschoben</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/190911__degewo_Hausaushang_Verschiebung.pdf">190911__degewo_Hausaushang_Verschiebung</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/190911__degewo_Hausaushang_Verschiebung.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+
+
+
+<p>Sehr geehrte Mieterinnen und Mieter,</p>
+
+
+
+<p>wir freuen uns, dass viele unserer Mieterinnen und Mieter die Möglichkeiten nutzen, mit uns persönlich ins Gespräch zu kommen. Sicherlich haben auch Sie sich die Informationsveranstaltung am kommenden Montag in Ihrem Kalender notiert.</p>
+
+
+
+<p>Die Erfahrung einer ähnlichen Veranstaltung in der letzten Woche zeigt, dass das Interesse weitaus größer sein könnte, als wir erwarten. Die Kapazität des vorgesehenen Veranstaltungsraums wird nicht ausreichen.</p>
+
+
+
+<p><strong>Sicherheit geht vor&nbsp;</strong><strong>–&nbsp;</strong><strong>um allen Interessierten eine Teilnahme zu ermöglichen, haben wir entschieden, die Veranstaltung auf Ende September bzw. in den Oktober zu verschieben.</strong></p>
+
+
+
+<p>Wir werden Sie rechtzeitig über den genauen Termin sowie den Veranstaltungsort informieren. Senden Sie Ihre Fragen gerne weiterhin an kietzerfeld@degewo.de.</p>
+
+
+
+<p><strong>Die Veranstaltung am kommenden Montag, dem 16.09.2019 findet daher NICHT statt!</strong></p>
+
+
+
+<p>Wir werden Sie rechtzeitig über den genauen Termin sowie den Veranstaltungsort informieren. Senden Sie Ihre Fragen gerne weiterhin an kietzerfeld@degewo.de.</p>
+
+
+
+<p>Für etwaige Umstände entschuldigen wir uns. </p>
+
+
+
+<p>Mit freundlichen Grüßen</p>
+
+
+
+<p>Ihr Kundenzentrum Köpenick</p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="231" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2019\/09\/190911__degewo_Hausaushang_Verschiebung.pdf"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

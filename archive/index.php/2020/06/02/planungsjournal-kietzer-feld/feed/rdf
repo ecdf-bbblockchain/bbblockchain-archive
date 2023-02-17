@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Planungsjournal „Kietzer Feld“ &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-06-02T19:50:34Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/06/02/planungsjournal-kietzer-feld/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/06/02/planungsjournal-kietzer-feld/">
+	<title>Planungsjournal „Kietzer Feld“</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/06/02/planungsjournal-kietzer-feld/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2020-06-02T19:50:34Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Alle Anwohnerinnen und Anwohner der Siedlung erhielten bereits unser gedrucktes Planungsjournals „Kietzer Feld“ über den Posteinwurf. Nun freuen wir uns, Ihnen die erste Ausgabe auch digital zugänglich zu machen. Wir informieren über die Ergebnisse der ersten beiden Veranstaltungen, zu denen wir Bewohnerinnen und Bewohner unserer Häuser eingeladen hatten. Viele gute Anregungen und Ideen aus der &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/06/02/planungsjournal-kietzer-feld/" class="more-link"><span class="screen-reader-text">Planungsjournal „Kietzer Feld“</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized"><img src="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/06/Planungsjournal_preview.jpg" alt="" class="wp-image-500" width="443" height="306" /></figure>
+
+
+
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/06/2250.0725_Planungsjournal_1_.pdf">Planungsjournal Kiezer Feld (Teil 1)</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/06/2250.0725_Planungsjournal_1_.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+
+
+
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/06/2250.0725_Planungsjournal_2_.pdf">Planungsjournal Kiezer Feld (Teil 2)</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2020/06/2250.0725_Planungsjournal_2_.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+
+
+
+<div class="wp-container-1 wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator" />
+
+
+
+<p>Alle Anwohnerinnen und Anwohner der Siedlung erhielten bereits unser gedrucktes Planungsjournals „Kietzer Feld“ über den Posteinwurf. </p>
+
+
+
+<p><strong>Nun freuen wir uns, Ihnen die erste Ausgabe auch digital zugänglich zu machen.</strong></p>
+
+
+
+<p>Wir informieren über die Ergebnisse der ersten beiden Veranstaltungen, zu denen wir Bewohnerinnen und Bewohner unserer Häuser eingeladen hatten. Viele gute Anregungen und Ideen aus der Bewohnerschaft finden Berücksichtigung in unserer weiteren Planung.</p>
+
+
+
+<p>In einer internen Werkstatt hat sich degewo mit sämtlichen Anregungen – priorisiert nach Bedeutung aus Sicht der Anwohnerinnen und Anwohner – befasst. <br>Die Umsetzbarkeit wird unter Berücksichtigung der städtebaulichen, gestalterischen, nachhaltigen und wirtschaftlichen Aspekte geprüft.</p>
+
+
+
+<p><strong>Konkret haben wir folgende Punkte aufgegriffen:</strong></p>
+
+
+
+<ul><li><strong>Nachbarschaftstreff</strong>: Geplant wird ein Ort der Begegnung im Erdgeschoss eines Neubaus an zentraler Stelle im Quartier.</li><li><strong>Medizinischer Versorgung/Ärzte</strong>: Die Ansiedlung im Kietzer Feld ist geplant. degewo steht mit der Kassenärztlichen Vereinigung im Austausch.</li><li><strong>Fahrradmobilität</strong>:  Es werden sichere Abstellflächen, Einrichtung einer Reparaturstation sowie die Möglichkeit zur Ausleihe eines Lastenfahrrades geplant.</li><li><strong>Wandbegrünungen</strong>: Es wird die Umsetzung an drei Giebeln geprüft.</li><li><strong>Spielplätze und Sitzgruppen</strong>: Alle Anregungen zur Neuverortung werden in der Planung berücksichtigt.</li><li><strong>Gemeinschaftsgarten</strong>, <strong>Flora und Fauna</strong>: Geplant sind Pflanzung von Vogelhecken, das Anbringen von Nistkästen, die Anlage von Blühwiesen und die Installation von Insektenhotels sowie ein Gemeinschaftsgarten.</li></ul>
+
+
+
+<p>Sie haben weitere Fragen und Anregungen? Schreiben Sie uns über <a href="mailto:kietzerfeld@degewo.de" target="_blank" rel="noreferrer noopener">kietzerfeld@degewo.de</a></p>
+</div></div>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="499" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2020\/06\/2250.0725_Planungsjournal_2_.pdf","https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2020\/06\/2250.0725_Planungsjournal_1_.pdf","https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2020\/06\/Planungsjournal_preview.jpg"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

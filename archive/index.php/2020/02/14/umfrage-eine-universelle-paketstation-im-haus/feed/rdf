@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Umfrage: Eine universelle Paketstation im Haus? &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-02-14T18:04:06Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/">
+	<title>Umfrage: Eine universelle Paketstation im Haus?</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/</link>
+
+	<dc:creator><![CDATA[Gewobag]]></dc:creator>
+	<dc:date>2020-02-14T14:27:11Z</dc:date>
+			<dc:subject><![CDATA[Bülow90]]></dc:subject>
+		<dc:subject><![CDATA[Umfrage]]></dc:subject>
+
+			<description><![CDATA[Der Online-Handel nimmt stetig zu.&#160;&#160; Bestellen auch Sie Ihre Waren öfter zu sich nach Hause? Dann wäre es&#160;wahrscheinlich&#160;praktisch, wenn Sie Ihr Paket direkt in der hauseigenen Paketstation im Erdgeschoss abholen könnten?&#160;&#160; Wieviel wären Sie bereit, für diesen Service zu bezahlen? Nichts. Ich nutze keine Paketstationen. Nichts. Ich würde sie nutzen, wenn sie kostenlos wäre, es &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/" class="more-link"><span class="screen-reader-text">Umfrage: Eine universelle Paketstation im Haus?</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>Der Online-Handel nimmt stetig zu.&nbsp;&nbsp;</p>
+
+
+
+<p>Bestellen auch Sie Ihre Waren öfter zu sich nach Hause? Dann wäre es&nbsp;wahrscheinlich&nbsp;praktisch, wenn Sie Ihr Paket direkt in der hauseigenen Paketstation im Erdgeschoss abholen könnten?&nbsp;&nbsp;</p>
+
+
+
+<p>Wieviel wären Sie bereit, für diesen Service zu bezahlen?</p>
+
+
+
+<ol><li>Nichts. Ich nutze keine Paketstationen.</li><li>Nichts. Ich würde sie nutzen, wenn sie kostenlos wäre, es gibt genug kostenlose Paketstationen im Kiez.</li><li>€ 3 pro Monat wäre mir diese Bequemlichkeit schon wert.</li><li>Ich würde maximal € 10 pro Monat zahlen.</li><li>Mehr als € 15 pro Monat würde ich nicht zahlen.</li></ol>
+
+
+
+<p></p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="445" author="Gewobag">
+[]
+</bbbwpfiles>
+
+<bbbwpvoting url="https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/">
+  <type>tokens</type>
+  <start>14.02.2020 16:00:00</start>
+  <end>31.03.2020 23:59:59</end>
+  <question>"Wieviel w\u00e4ren Sie bereit, f\u00fcr diesen Service zu bezahlen?"</question>
+  <options>["Nichts. Ich nutze keine Paketstationen.","Nichts. Ich w\u00fcrde sie nutzen, wenn sie kostenlos w\u00e4re, es gibt genug kostenlose Paketstationen im Kiez.","\u20ac 3 pro Monat w\u00e4re mir diese Bequemlichkeit schon wert.","Ich w\u00fcrde maximal \u20ac 10 pro Monat zahlen.","Mehr als \u20ac 15 pro Monat w\u00fcrde ich nicht zahlen."]</options>
+</bbbwpvoting>
+</item>
+</rdf:RDF>

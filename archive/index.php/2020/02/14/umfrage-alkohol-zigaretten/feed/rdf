@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Umfrage: Alkohol &#038; Zigaretten &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2020-02-14T15:55:36Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/">
+	<title>Umfrage: Alkohol &#038; Zigaretten</title>
+	<link>https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/</link>
+
+	<dc:creator><![CDATA[Gewobag]]></dc:creator>
+	<dc:date>2020-02-14T15:54:38Z</dc:date>
+			<dc:subject><![CDATA[Bülow90]]></dc:subject>
+		<dc:subject><![CDATA[Umfrage]]></dc:subject>
+
+			<description><![CDATA[Wir planen einen kleinen Hausladen anzubieten, in dem man das Notwendigste kaufen kann, bzw. Dinge, die man vergessen hat (z.B. Salz, Milch, Windeln, Kerzen). Denken Sie, dass so ein Laden auch Alkohol und/oder Zigaretten anbieten sollte? Nein, das muss nicht sein. Alkohol wäre schon gut. Zigaretten muss nicht sein. Zigaretten auf jeden Fall, Alkohol eher &#8230; <a href="https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/" class="more-link"><span class="screen-reader-text">Umfrage: Alkohol &#038; Zigaretten</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<p>Wir planen einen kleinen Hausladen anzubieten, in dem man das Notwendigste kaufen kann, bzw. Dinge, die man vergessen hat (z.B. Salz, Milch, Windeln, Kerzen).</p>
+
+
+
+<p>Denken Sie, dass so ein Laden auch Alkohol und/oder Zigaretten anbieten sollte?</p>
+
+
+
+<ol><li>Nein, das muss nicht sein.</li><li>Alkohol wäre schon gut. Zigaretten muss nicht sein.</li><li>Zigaretten auf jeden Fall, Alkohol eher nicht</li><li>Nur E-Zigaretten bitte.</li><li>Alkohol und Zigaretten sollten im Angebot sein.</li></ol>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="450" author="Gewobag">
+[]
+</bbbwpfiles>
+
+<bbbwpvoting url="https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/">
+  <type>tokens</type>
+  <start>14.02.2020 18:00:00</start>
+  <end>31.03.2020 23:59:59</end>
+  <question>"Denken Sie, dass so ein Laden auch Alkohol und\/oder Zigaretten anbieten sollte?"</question>
+  <options>["Nein, das muss nicht sein.","Alkohol w\u00e4re schon gut. Zigaretten muss nicht sein.","Zigaretten auf jeden Fall, Alkohol eher nicht","Nur E-Zigaretten bitte.","Alkohol und Zigaretten sollten im Angebot sein."]</options>
+</bbbwpvoting>
+</item>
+</rdf:RDF>

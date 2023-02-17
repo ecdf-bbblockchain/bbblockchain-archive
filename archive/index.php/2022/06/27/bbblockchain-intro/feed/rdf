@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Willkommen auf der BBBlockchain &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2022-07-02T09:29:40Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9.3" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2022/06/27/bbblockchain-intro/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2022/06/27/bbblockchain-intro/">
+	<title>Willkommen auf der BBBlockchain</title>
+	<link>https://cloud.bbblockchain.de/index.php/2022/06/27/bbblockchain-intro/</link>
+
+	<dc:creator><![CDATA[dsi_robert]]></dc:creator>
+	<dc:date>2022-06-27T12:49:16Z</dc:date>
+			<dc:subject><![CDATA[LNDW]]></dc:subject>
+
+			<description><![CDATA[Willkommen bei BBBlockchain: eine App für Bürger*Innen-Beteiligung in der Stadtentwicklung! Folgen Sie folgenden Schritten um eine kleines Beteiligungs-Geschenk zu erhalten: Informieren Sie sich darüber, wie viele neue Wohnungen für das Bauprojekt LNDW geplant sind Nehmen Sie an der Abstimmung teil Geben Sie uns Feedback Lösen Sie den Blockchain-Token gegen eine kleine Belohnung ein]]></description>
+		<content:encoded><![CDATA[
+<p><strong>Willkommen bei BBBlockchain: eine App für Bürger*Innen-Beteiligung in der Stadtentwicklung!</strong></p>
+
+
+
+<p>Folgen Sie folgenden Schritten um eine kleines Beteiligungs-Geschenk zu erhalten:</p>
+
+
+
+<ol><li>Informieren Sie sich darüber, wie viele neue Wohnungen für das Bauprojekt LNDW geplant sind</li><li>Nehmen Sie an der Abstimmung teil</li><li>Geben Sie uns Feedback</li><li>Lösen Sie den Blockchain-Token gegen eine kleine Belohnung ein</li></ol>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-full"><img width="300" height="300" src="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2022/07/lndw_qr3.png" alt="" class="wp-image-624"/></figure></div>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="603" author="dsi_robert">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2022\/07\/lndw_qr3.png"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

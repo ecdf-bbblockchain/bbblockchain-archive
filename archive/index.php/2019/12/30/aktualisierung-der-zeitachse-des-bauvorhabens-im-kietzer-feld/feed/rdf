@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Aktualisierung der Zeitachse des Bauvorhabens im Kietzer Feld &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2019-12-30T07:59:57Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2019/12/30/aktualisierung-der-zeitachse-des-bauvorhabens-im-kietzer-feld/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2019/12/30/aktualisierung-der-zeitachse-des-bauvorhabens-im-kietzer-feld/">
+	<title>Aktualisierung der Zeitachse des Bauvorhabens im Kietzer Feld</title>
+	<link>https://cloud.bbblockchain.de/index.php/2019/12/30/aktualisierung-der-zeitachse-des-bauvorhabens-im-kietzer-feld/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2019-12-30T07:59:57Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[]]></description>
+		<content:encoded><![CDATA[
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/12/191223_Zeitstrahl-2.pdf">191223_Zeitstrahl-2</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/12/191223_Zeitstrahl-2.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+
+
+
+<figure class="wp-block-image size-large"><img width="1181" height="1703" src="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/12/191223_Zeitstrahl-1.jpg" alt="" class="wp-image-394" /></figure>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="385" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2019\/12\/191223_Zeitstrahl-1.jpg","https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2019\/12\/191223_Zeitstrahl-2.pdf"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

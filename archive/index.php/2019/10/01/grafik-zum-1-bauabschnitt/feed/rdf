@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Grafik zum 1. Bauabschnitt &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2019-10-01T10:28:33Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2019/10/01/grafik-zum-1-bauabschnitt/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2019/10/01/grafik-zum-1-bauabschnitt/">
+	<title>Grafik zum 1. Bauabschnitt</title>
+	<link>https://cloud.bbblockchain.de/index.php/2019/10/01/grafik-zum-1-bauabschnitt/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2019-10-01T10:28:33Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[]]></description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image is-resized"><img src="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/10/Kiezer_Feld_Das-Bauvorhaben-im-1_Bauabschnitt.jpg" alt="" class="wp-image-260" width="579" height="405" /><figcaption>Grafik: Das Bauvorhaben im 1. Bauabschnitt (Voraussichtlicher Baubeginn: November 2020)</figcaption></figure>
+
+
+
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/10/Kiezer_Feld_Das-Bauvorhaben-im-1_Bauabschnitt-1.pdf">Kiezer_Feld_Das-Bauvorhaben-im-1_Bauabschnitt-1</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/10/Kiezer_Feld_Das-Bauvorhaben-im-1_Bauabschnitt-1.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+
+
+
+<p></p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="259" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2019\/10\/Kiezer_Feld_Das-Bauvorhaben-im-1_Bauabschnitt-1.pdf","https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2019\/10\/Kiezer_Feld_Das-Bauvorhaben-im-1_Bauabschnitt.jpg"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="https://cloud.bbblockchain.de">
+	<title>Informationsschreiben: neuer Termin Mieterinformationsveranstaltung &#8211; BBBlockchain Cloud</title>
+	<link>https://cloud.bbblockchain.de</link>
+	<description>Administration</description>
+	<dc:date>2019-09-30T09:14:58Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.9" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://cloud.bbblockchain.de/index.php/2019/09/27/informationsschreiben-neuer-termin-mieterinformationsveranstaltung/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://cloud.bbblockchain.de/index.php/2019/09/27/informationsschreiben-neuer-termin-mieterinformationsveranstaltung/">
+	<title>Informationsschreiben: neuer Termin Mieterinformationsveranstaltung</title>
+	<link>https://cloud.bbblockchain.de/index.php/2019/09/27/informationsschreiben-neuer-termin-mieterinformationsveranstaltung/</link>
+
+	<dc:creator><![CDATA[degewo]]></dc:creator>
+	<dc:date>2019-09-27T10:05:52Z</dc:date>
+			<dc:subject><![CDATA[Kietzer Feld]]></dc:subject>
+
+			<description><![CDATA[Sehr geehrte Mieterinnen und Mieter, wir kommen zu Ihnen ins Quartier und laden Sie herzlich zur Mieterinformationsveranstaltung am Dienstag, den 1. Oktober 2019 ein. Auf der Wiese zwischen den Blöcken Am Kietzer Feld 17-23 und Igelsteig 1-7 bietet ein großes Zelt ausreichend Platz für alle interessierten Besucher. Im Stil eines offenen Informationsnachmittags können Sie uns jederzeit zwischen15:30 Uhr &#8230; <a href="https://cloud.bbblockchain.de/index.php/2019/09/27/informationsschreiben-neuer-termin-mieterinformationsveranstaltung/" class="more-link"><span class="screen-reader-text">Informationsschreiben: neuer Termin Mieterinformationsveranstaltung</span> weiterlesen</a>]]></description>
+		<content:encoded><![CDATA[
+<div class="wp-block-file"><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/190919__degewo_Hausaushang_Einladung2.pdf">190919__degewo_Hausaushang_Einladung2</a><a href="https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/190919__degewo_Hausaushang_Einladung2.pdf" class="wp-block-file__button" download>Herunterladen</a></div>
+
+
+
+<p>Sehr geehrte Mieterinnen und Mieter,</p>
+
+
+
+<p>wir kommen zu Ihnen ins Quartier und laden Sie herzlich zur Mieterinformationsveranstaltung am <strong>Dienstag, den 1. Oktober 2019 </strong>ein.</p>
+
+
+
+<p>Auf der Wiese zwischen den Blöcken <strong>Am Kietzer Feld 17-23 und Igelsteig 1-7 </strong>bietet ein großes Zelt ausreichend Platz für alle interessierten Besucher.</p>
+
+
+
+<p>Im Stil eines offenen Informationsnachmittags können Sie uns jederzeit <strong>zwischen15:30 Uhr und 19:45 Uhr</strong> besuchen. An Ständen und Thementischen zum Bauvorhaben, zu Außenanlagen sowie zu Infrastrukturthemen, stehen wir für Ihre Fragen und Anregungen zur Verfügung.</p>
+
+
+
+<p>Parallel dazu findet jeweils um 16:00 Uhr, 17:30 Uhr und 19:00 Uhr eine offizielle Begrüßung und eine Information zum Bauvorhaben durch die Organisatoren statt.</p>
+
+
+
+<p>Sollten Sie bereits jetzt schon Fragen an uns haben, senden Sie diese gerne vorab an <strong>kietzerfeld@degewo.de.</strong></p>
+
+
+
+<p>Wir freuen uns auf Ihr Kommen. </p>
+
+
+
+<p>Ihr Kundenzentrum Köpenick</p>
+
+
+
+<p></p>
+]]></content:encoded>
+	
+	
+<bbbwpfiles postId="235" author="degewo">
+["https:\/\/d33buku1khvcng.cloudfront.net\/wp-content\/uploads\/2019\/09\/190919__degewo_Hausaushang_Einladung2.pdf"]
+</bbbwpfiles>
+</item>
+</rdf:RDF>
