@@ -1,0 +1,2146 @@
+[
+  {
+    "address": "0x6CDd1233550f88c730d609eb519111C78c5E1A31",
+    "name": "Kietzer Feld",
+    "url": "https://**CLOUD**/index.php/category/kietzer-feld/",
+    "description": "Im Kietzer Feld sollen in drei Bauabschnitten, beginnend voraussichtlich Ende 2020, zwischen 290 und 310 Wohnungen gebaut werden. Es wird auch geprüft, ob bestehende Gebäude um ein weiteres Geschoss erweitert werden können. Dadurch sind zusätzlich ca. 140 Wohnungen vorgesehen. Außerdem ist eine Tiefgarage und eine Kita für ca. 85 Kinder geplant.",
+    "start": 1569144382,
+    "end": 1570584382,
+    "visible": true,
+    "developer": "degewo",
+    "website": "https://www.degewo.de/wohnen-in-berlin/kiez-leben/treptow-koepenick/kietzer-feld/",
+    "postalAddress": "Kietzer Feld\n12557 Berlin",
+    "stakeHolders": [
+      "degewo",
+      "Mieterrat",
+      "Bezirk Treptow-Köpenick (Stadtplanungsamt)"
+    ],
+    "stakeHolderTypes": [
+      "developer",
+      "mieter",
+      "bezirk"
+    ],
+    "imageUrls": [
+      "https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/DSC_0132_c.jpg",
+      "https://d33buku1khvcng.cloudfront.net/wp-content/uploads/2019/09/DSC_0148_c.jpg"
+    ],
+    "usecases": [
+      "0xDcEfaed681e06CB343Cbc94a87ef1cb214F95e6D",
+      "0xa2067667C49C3AbBFf8DE8b76DFE221fA95B7395",
+      "0xCd79dcAC9d6F9c41143a8436391a98912e4Ae67B",
+      "0x0F83883A959104cC83976eac0A4355BD9513E830",
+      "0x7c59B9FA90Cb9D36567Da61979fF1819386e6E00",
+      "0x453d37393812e19b23d2DebC6daFf3F68B81C899",
+      "0xBFE7A7E01e7b8a5C75df3a8f6611253167c43899",
+      "0xAfDC79f85957Febdd72bd07316471BaB5FA69eC2",
+      "0xd0e880e78477A8C6ffD33773A5EEA8A99E532882",
+      "0x626953337a2E1371620d1126514CDCa2771B0E0F"
+    ],
+    "votings": [
+      {
+        "address": "0xCd79dcAC9d6F9c41143a8436391a98912e4Ae67B",
+        "start": 1645516377,
+        "end": 1646780399,
+        "countedVotes": 12,
+        "maximumVote": 1,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x23208ECdCbd7683E9Adc51f08Ae078C6c365d0b8",
+        "author": "degewo",
+        "topic": "Leben in Ihrem Haushalt Kinder unter 18 Jahren? ",
+        "title": "Umfrage: Kinder",
+        "multipleResponse": false,
+        "blockNumber": 10206843,
+        "blockHash": "0x8706294b44907122d31258673b6d4121f0bf75818246a13b9408fc2f56a431a7",
+        "optionsSet": 2,
+        "options": [
+          "Ja.",
+          "Nein."
+        ],
+        "rssPostUrl": "",
+        "results": [
+          "3x Ja.",
+          "9x Nein."
+        ]
+      },
+      {
+        "address": "0x0F83883A959104cC83976eac0A4355BD9513E830",
+        "start": 1645524429,
+        "end": 1646780399,
+        "countedVotes": 14,
+        "maximumVote": 3,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x23208ECdCbd7683E9Adc51f08Ae078C6c365d0b8",
+        "author": "degewo",
+        "topic": "Wie alt sind Sie?",
+        "title": "Umfrage: Alter",
+        "multipleResponse": false,
+        "blockNumber": 10207268,
+        "blockHash": "0x3fd8241b4a1dac208a886df3c4e266474378185d2bca48b4fa37e7448b75d676",
+        "optionsSet": 4,
+        "options": [
+          "Zwischen 0 und 20",
+          "Zwischen 21 und 40",
+          "Zwischen 41 und 60",
+          "61 Jahre und älter"
+        ],
+        "rssPostUrl": "",
+        "results": [
+          "0x Zwischen 0 und 20",
+          "5x Zwischen 21 und 40",
+          "6x Zwischen 41 und 60",
+          "3x 61 Jahre und älter"
+        ]
+      },
+      {
+        "address": "0x7c59B9FA90Cb9D36567Da61979fF1819386e6E00",
+        "start": 1645525629,
+        "end": 1646780399,
+        "countedVotes": 12,
+        "maximumVote": 2,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x23208ECdCbd7683E9Adc51f08Ae078C6c365d0b8",
+        "author": "degewo",
+        "topic": "Auf einer Grünfläche am Igelsteig entsteht ein großer Gemeinschaftsgarten. Im September 2021 haben wir gemeinsam mit Mieterinnen und Mietern geplant, wie der Garten einmal aussehen und ausgestattet sein soll.\n\nWürden Sie den Garten nutzen?",
+        "title": "Umfrage: Gemeinschaftsgarten",
+        "multipleResponse": false,
+        "blockNumber": 10207348,
+        "blockHash": "0x89939c60f60058352bc73c54f83c65127f2cd64eaa70830002f3e086097b03cb",
+        "optionsSet": 3,
+        "options": [
+          "Ich würde den Garten zur Erholung nutzen, mehr nicht.",
+          "Ich könnte mir vorstellen, dort aktiv mit zu gärtnern.",
+          "Nein, der Gemeinschaftsgarten interessiert mich nicht."
+        ],
+        "rssPostUrl": "",
+        "results": [
+          "2x Ich würde den Garten zur Erholung nutzen, mehr nicht.",
+          "5x Ich könnte mir vorstellen, dort aktiv mit zu gärtnern.",
+          "5x Nein, der Gemeinschaftsgarten interessiert mich nicht."
+        ]
+      },
+      {
+        "address": "0x453d37393812e19b23d2DebC6daFf3F68B81C899",
+        "start": 1645526019,
+        "end": 1646780399,
+        "countedVotes": 13,
+        "maximumVote": 4,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x23208ECdCbd7683E9Adc51f08Ae078C6c365d0b8",
+        "author": "degewo",
+        "topic": "Demnächst soll es im Kietzer Feld die Möglichkeit geben, ein Lastenrad auszuleihen. Würden Sie dieses Angebot nutzen?",
+        "title": "Umfrage: Lastenrad",
+        "multipleResponse": false,
+        "blockNumber": 10207374,
+        "blockHash": "0x0436840f85f0facb316ad6b5616efc10b4e227efaff2873c84d42d80dc89cd1b",
+        "optionsSet": 5,
+        "options": [
+          "Ich finde gut, dass es man ein Lastenrad leihen kann, werde das aber selbst nicht tun (können).",
+          "Ja, das könnte ich mir vorstellen.",
+          "Ja, das werde ich auf jeden Fall machen.",
+          "Nein, denn ich habe ein eigenes Lastenrad.",
+          "Nein, das Angebot interessiert mich nicht."
+        ],
+        "rssPostUrl": "",
+        "results": [
+          "3x Ich finde gut, dass es man ein Lastenrad leihen kann, werde das aber selbst nicht tun (können).",
+          "2x Ja, das könnte ich mir vorstellen.",
+          "3x Ja, das werde ich auf jeden Fall machen.",
+          "0x Nein, denn ich habe ein eigenes Lastenrad.",
+          "5x Nein, das Angebot interessiert mich nicht."
+        ]
+      },
+      {
+        "address": "0xBFE7A7E01e7b8a5C75df3a8f6611253167c43899",
+        "start": 1645526424,
+        "end": 1646780399,
+        "countedVotes": 13,
+        "maximumVote": 3,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x23208ECdCbd7683E9Adc51f08Ae078C6c365d0b8",
+        "author": "degewo",
+        "topic": "Wir haben viele Anregungen aus der Nachbarschaft aufgenommen – dazu zählte die Idee, im Kietzer Feld Outdoor-Fitness-Geräte aufzustellen.\n\nKönnen Sie sich vorstellen, die künftigen Outdoor-Fitness-Geräte im Süden der Siedlung zu nutzen?",
+        "title": "Umfrage: Sport und Fitness",
+        "multipleResponse": false,
+        "blockNumber": 10207401,
+        "blockHash": "0x6d1e83df081f65e0ab208279e7873e3a56ca2ca7287cfb586dcb159a1acfbb97",
+        "optionsSet": 4,
+        "options": [
+          "Ich finde gut, dass es draußen bald Sportgeräte gibt, werde diese aber nicht nutzen (können).",
+          "Ich finde gut, dass es draußen bald Sportgeräte gibt und kann mir vorstellen, diese auszuprobieren.",
+          "Ich kann mir vorstellen, die Sportgeräte zu nutzen. Ich kann mir das aber besser in einer festen Sportgruppe vorstellen.",
+          "Die Sportgeräte interessieren mich nicht."
+        ],
+        "rssPostUrl": "",
+        "results": [
+          "2x Ich finde gut, dass es draußen bald Sportgeräte gibt, werde diese aber nicht nutzen (können).",
+          "9x Ich finde gut, dass es draußen bald Sportgeräte gibt und kann mir vorstellen, diese auszuprobieren.",
+          "0x Ich kann mir vorstellen, die Sportgeräte zu nutzen. Ich kann mir das aber besser in einer festen Sportgruppe vorstellen.",
+          "2x Die Sportgeräte interessieren mich nicht."
+        ]
+      },
+      {
+        "address": "0xAfDC79f85957Febdd72bd07316471BaB5FA69eC2",
+        "start": 1645526814,
+        "end": 1646780399,
+        "countedVotes": 11,
+        "maximumVote": 2,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x23208ECdCbd7683E9Adc51f08Ae078C6c365d0b8",
+        "author": "degewo",
+        "topic": "Zu welchen Zeiten würden Sie Angebote im Treff nutzen wollen oder können? (Mehrfachantwort möglich)",
+        "title": "Umfrage: Öffnungszeiten",
+        "multipleResponse": true,
+        "blockNumber": 10207427,
+        "blockHash": "0xf87ae8de5b64f860defe46fea377a88d57bee8df7846ee5aaa82afd0ebdf8257",
+        "optionsSet": 3,
+        "options": [
+          "Vormittags",
+          "Nachmittags",
+          "Abends"
+        ],
+        "rssPostUrl": "",
+        "results": [
+          "6x Vormittags",
+          "10x Nachmittags",
+          "8x Abends"
+        ]
+      },
+      {
+        "address": "0xd0e880e78477A8C6ffD33773A5EEA8A99E532882",
+        "start": 1645527204,
+        "end": 1646780399,
+        "countedVotes": 13,
+        "maximumVote": 8,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x23208ECdCbd7683E9Adc51f08Ae078C6c365d0b8",
+        "author": "degewo",
+        "topic": "Welche Angebote interessieren Sie besonders? (Mehrfachantwort möglich)",
+        "title": "Umfrage: Angebote im Treff",
+        "multipleResponse": true,
+        "blockNumber": 10207453,
+        "blockHash": "0x7633d5c1e8b2697d90ca6a1249655b10542369f1fc5a333cd8e7bb8374043b14",
+        "optionsSet": 9,
+        "options": [
+          "Hobbygruppen (z.B. nähen, basteln, werken, singen...)",
+          "Sport (Walking, Yoga, Boule...)",
+          "Treffpunkt & Austausch (Mieterbeirat, Spiele, Kaffeetrinken, Krabbelgruppe...)",
+          "Verleihstation (Spielgeräte, Werkzeug, Lastenrad...)",
+          "Thematische Veranstaltungen (Vorträge, Gesprächsrunde...)",
+          "Angebote besonders für Seniorinnen und Senioren",
+          "Angebote besonders für Kinder und Jugendliche",
+          "Raumüberlassung für kleine Feiern, Kindergeburtstage",
+          "Sonstiges"
+        ],
+        "rssPostUrl": "",
+        "results": [
+          "10x Hobbygruppen (z.B. nähen, basteln, werken, singen...)",
+          "8x Sport (Walking, Yoga, Boule...)",
+          "8x Treffpunkt & Austausch (Mieterbeirat, Spiele, Kaffeetrinken, Krabbelgruppe...)",
+          "7x Verleihstation (Spielgeräte, Werkzeug, Lastenrad...)",
+          "8x Thematische Veranstaltungen (Vorträge, Gesprächsrunde...)",
+          "4x Angebote besonders für Seniorinnen und Senioren",
+          "2x Angebote besonders für Kinder und Jugendliche",
+          "8x Raumüberlassung für kleine Feiern, Kindergeburtstage",
+          "1x Sonstiges"
+        ]
+      },
+      {
+        "address": "0x626953337a2E1371620d1126514CDCa2771B0E0F",
+        "start": 1645527669,
+        "end": 1646780399,
+        "countedVotes": 18,
+        "maximumVote": 3,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x23208ECdCbd7683E9Adc51f08Ae078C6c365d0b8",
+        "author": "degewo",
+        "topic": "An zentraler Stelle im Quartier entsteht ein Nachbarschaftstreff. Er befindet sich im Erdgeschoss und ist barrierefrei. Es soll Angebote geben und ein Ort der Begegnung entstehen.\n\nWürden Sie den Treff nutzen?",
+        "title": "Umfrage: Ein Nachbarschaftstreff im Kietzer Feld",
+        "multipleResponse": false,
+        "blockNumber": 10207484,
+        "blockHash": "0x8af750d9b60990a992d5c52ce883dbf56e7729186e00a282866be72c128890fd",
+        "optionsSet": 4,
+        "options": [
+          "Ich finde gut, dass es einen Nachbarschaftstreff geben soll, werde ich ihn aber vermutlich nicht nutzen (können).",
+          "Ich könnte mir vorstellen, den Nachbarschaftstreff zu nutzen.",
+          "Ich habe viele Ideen und könnte mir gut vorstellen, mich aktiv einzubringen.",
+          "Nein, der Nachbarschaftstreff interessiert mich nicht."
+        ],
+        "rssPostUrl": "",
+        "results": [
+          "3x Ich finde gut, dass es einen Nachbarschaftstreff geben soll, werde ich ihn aber vermutlich nicht nutzen (können).",
+          "9x Ich könnte mir vorstellen, den Nachbarschaftstreff zu nutzen.",
+          "1x Ich habe viele Ideen und könnte mir gut vorstellen, mich aktiv einzubringen.",
+          "5x Nein, der Nachbarschaftstreff interessiert mich nicht."
+        ]
+      }
+    ],
+    "multiVotings": []
+  },
+  {
+    "address": "0x2d5Ec66c8a6C40533b4e1836F1189947BCB0aED0",
+    "name": "Bülow90",
+    "url": "https://**CLOUD**/index.php/category/buelow90/",
+    "description": "Bülow90 in Schöneberg – Stadt. Neu. Leben. In dem Gebäude in der Bülowstraße 90 will die Gewobag in den kommenden Jahren – gemeinsam mit MieterInnen, BewohnerInnen und AnwohnerInnen – zukunftsfähige, nutzerzentrierte und übertragbare Modelle für Wohnen, Arbeiten und Zusammenleben in der Praxis erproben. Ein Pilotprojekt, das auf gemeinsames Lernen und Ausprobieren setzt und dessen DNA der kontinuierliche Wandel sein wird. Es wird neue Wohnungen mit Gemeinschaftsflächen geben. Aber auch Gemeinschaftsräume zum Arbeiten sowie Bildung-, Schulungs- und Kulturangebote. Geplant sind auch zum Beispiel ein Kindergarten, ein Kiezcafé und eine offene Werkstatt. Das Gebäude in der Bülow90 wird ein Hub für lebendige Stadtentwicklung. Bis das Haus fertig ist – das wird ein paar Jahre dauern – sind zahlreiche, auch öffentlich zugängliche Zwischennutzungen vorgesehen.",
+    "start": 1580989316,
+    "end": 1582429316,
+    "visible": true,
+    "developer": "gewobag",
+    "website": "https://www.gewobag.de/bauen-in-berlin/buelow90/",
+    "postalAddress": "Bülowstraße 90\n10783 Berlin",
+    "stakeHolders": [
+      "gewobag"
+    ],
+    "stakeHolderTypes": [
+      "developer"
+    ],
+    "imageUrls": [],
+    "usecases": [
+      "0x7BC44CFb074084A0A9bf128878B15AA1Efa4B9C9",
+      "0xb481d8aa23fBCe23164d675C2943F63980BD3b67",
+      "0xd7f3243Ab821c839137726Fa3b1BC5B2D4e1A58A",
+      "0x8422d72af7EDe21d71DB20d1c68f9650998b6504",
+      "0xd44f4d4c711F60DF52584a2a6eb754990b6eEB47",
+      "0xC5785C2Fd9588874c521287248f52c3C1e55674E",
+      "0x968Eef402bbE9DeE735EB96F70Baee3cC724E2ca",
+      "0x7bcA02CbB1936Db517645F1BDa18f4126d65bdf1",
+      "0x15e38eca1A8Ec225B1106Aa01E2Fa48d8D866E1A"
+    ],
+    "votings": [
+      {
+        "address": "0xd7f3243Ab821c839137726Fa3b1BC5B2D4e1A58A",
+        "start": 1581709779,
+        "end": 1585691999,
+        "countedVotes": 75,
+        "maximumVote": 4,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x292c0701a3047e164FFdb413Eca7ED033494124f",
+        "author": "",
+        "topic": "Wieviel w\\u00e4ren Sie bereit, f\\u00fcr diesen Service zu bezahlen?",
+        "title": "",
+        "multipleResponse": false,
+        "blockNumber": 0,
+        "blockHash": 0,
+        "optionsSet": 5,
+        "options": [
+          "Nichts. Ich nutze keine Paketstationen.",
+          "Nichts. Ich würde sie nutzen, wenn sie kostenlos wäre, es gibt genug kostenlose Paketstationen im Kiez.",
+          "€ 3 pro Monat wäre mir diese Bequemlichkeit schon wert.",
+          "Ich würde maximal € 10 pro Monat zahlen.",
+          "Mehr als € 15 pro Monat würde ich nicht zahlen."
+        ],
+        "rssPostUrl": "https://**CLOUD**/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/",
+        "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rdf:RDF\n\txmlns=\"http://purl.org/rss/1.0/\"\n\txmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:admin=\"http://webns.net/mvcb/\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\t>\n<channel rdf:about=\"https://cloud.bbblockchain.de\">\n\t<title>Umfrage: Eine universelle Paketstation im Haus? &#8211; BBBlockchain Cloud</title>\n\t<link>https://cloud.bbblockchain.de</link>\n\t<description>Administration</description>\n\t<dc:date>2020-02-14T18:04:06Z\t</dc:date>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>\n\t<admin:generatorAgent rdf:resource=\"https://wordpress.org/?v=5.9\" />\n\t<items>\n\t\t<rdf:Seq>\n\t\t\t\t\t<rdf:li rdf:resource=\"https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/\"/>\n\t\t\t\t</rdf:Seq>\n\t</items>\n</channel>\n<item rdf:about=\"https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/\">\n\t<title>Umfrage: Eine universelle Paketstation im Haus?</title>\n\t<link>https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/</link>\n\n\t<dc:creator><![CDATA[Gewobag]]></dc:creator>\n\t<dc:date>2020-02-14T14:27:11Z</dc:date>\n\t\t\t<dc:subject><![CDATA[Bülow90]]></dc:subject>\n\t\t<dc:subject><![CDATA[Umfrage]]></dc:subject>\n\n\t\t\t<description><![CDATA[Der Online-Handel nimmt stetig zu.&#160;&#160; Bestellen auch Sie Ihre Waren öfter zu sich nach Hause? Dann wäre es&#160;wahrscheinlich&#160;praktisch, wenn Sie Ihr Paket direkt in der hauseigenen Paketstation im Erdgeschoss abholen könnten?&#160;&#160; Wieviel wären Sie bereit, für diesen Service zu bezahlen? Nichts. Ich nutze keine Paketstationen. Nichts. Ich würde sie nutzen, wenn sie kostenlos wäre, es &#8230; <a href=\"https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/\" class=\"more-link\"><span class=\"screen-reader-text\">Umfrage: Eine universelle Paketstation im Haus?</span> weiterlesen</a>]]></description>\n\t\t<content:encoded><![CDATA[\n<p>Der Online-Handel nimmt stetig zu.&nbsp;&nbsp;</p>\n\n\n\n<p>Bestellen auch Sie Ihre Waren öfter zu sich nach Hause? Dann wäre es&nbsp;wahrscheinlich&nbsp;praktisch, wenn Sie Ihr Paket direkt in der hauseigenen Paketstation im Erdgeschoss abholen könnten?&nbsp;&nbsp;</p>\n\n\n\n<p>Wieviel wären Sie bereit, für diesen Service zu bezahlen?</p>\n\n\n\n<ol><li>Nichts. Ich nutze keine Paketstationen.</li><li>Nichts. Ich würde sie nutzen, wenn sie kostenlos wäre, es gibt genug kostenlose Paketstationen im Kiez.</li><li>€ 3 pro Monat wäre mir diese Bequemlichkeit schon wert.</li><li>Ich würde maximal € 10 pro Monat zahlen.</li><li>Mehr als € 15 pro Monat würde ich nicht zahlen.</li></ol>\n\n\n\n<p></p>\n]]></content:encoded>\n\t\n\t\n<bbbwpfiles postId=\"445\" author=\"Gewobag\">\n[]\n</bbbwpfiles>\n\n<bbbwpvoting url=\"https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-eine-universelle-paketstation-im-haus/\">\n  <type>tokens</type>\n  <start>14.02.2020 16:00:00</start>\n  <end>31.03.2020 23:59:59</end>\n  <question>\"Wieviel w\\u00e4ren Sie bereit, f\\u00fcr diesen Service zu bezahlen?\"</question>\n  <options>[\"Nichts. Ich nutze keine Paketstationen.\",\"Nichts. Ich w\\u00fcrde sie nutzen, wenn sie kostenlos w\\u00e4re, es gibt genug kostenlose Paketstationen im Kiez.\",\"\\u20ac 3 pro Monat w\\u00e4re mir diese Bequemlichkeit schon wert.\",\"Ich w\\u00fcrde maximal \\u20ac 10 pro Monat zahlen.\",\"Mehr als \\u20ac 15 pro Monat w\\u00fcrde ich nicht zahlen.\"]</options>\n</bbbwpvoting>\n</item>\n</rdf:RDF>\n",
+        "results": [
+          "13x Nichts. Ich nutze keine Paketstationen.",
+          "37x Nichts. Ich würde sie nutzen, wenn sie kostenlos wäre, es gibt genug kostenlose Paketstationen im Kiez.",
+          "22x € 3 pro Monat wäre mir diese Bequemlichkeit schon wert.",
+          "3x Ich würde maximal € 10 pro Monat zahlen.",
+          "0x Mehr als € 15 pro Monat würde ich nicht zahlen."
+        ]
+      },
+      {
+        "address": "0x8422d72af7EDe21d71DB20d1c68f9650998b6504",
+        "start": 1581709929,
+        "end": 1585691999,
+        "countedVotes": 76,
+        "maximumVote": 4,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x292c0701a3047e164FFdb413Eca7ED033494124f",
+        "author": "",
+        "topic": "Denken Sie, dass so ein Laden auch Alkohol und\\/oder Zigaretten anbieten sollte?",
+        "title": "",
+        "multipleResponse": false,
+        "blockNumber": 0,
+        "blockHash": 0,
+        "optionsSet": 5,
+        "options": [
+          "Nein, das muss nicht sein.",
+          "Alkohol wäre schon gut. Zigaretten muss nicht sein.",
+          "Zigaretten auf jeden Fall, Alkohol eher nicht",
+          "Nur E-Zigaretten bitte.",
+          "Alkohol und Zigaretten sollten im Angebot sein."
+        ],
+        "rssPostUrl": "https://**CLOUD**/index.php/2020/02/14/umfrage-alkohol-zigaretten/",
+        "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rdf:RDF\n\txmlns=\"http://purl.org/rss/1.0/\"\n\txmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:admin=\"http://webns.net/mvcb/\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\t>\n<channel rdf:about=\"https://cloud.bbblockchain.de\">\n\t<title>Umfrage: Alkohol &#038; Zigaretten &#8211; BBBlockchain Cloud</title>\n\t<link>https://cloud.bbblockchain.de</link>\n\t<description>Administration</description>\n\t<dc:date>2020-02-14T15:55:36Z\t</dc:date>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>\n\t<admin:generatorAgent rdf:resource=\"https://wordpress.org/?v=5.9\" />\n\t<items>\n\t\t<rdf:Seq>\n\t\t\t\t\t<rdf:li rdf:resource=\"https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/\"/>\n\t\t\t\t</rdf:Seq>\n\t</items>\n</channel>\n<item rdf:about=\"https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/\">\n\t<title>Umfrage: Alkohol &#038; Zigaretten</title>\n\t<link>https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/</link>\n\n\t<dc:creator><![CDATA[Gewobag]]></dc:creator>\n\t<dc:date>2020-02-14T15:54:38Z</dc:date>\n\t\t\t<dc:subject><![CDATA[Bülow90]]></dc:subject>\n\t\t<dc:subject><![CDATA[Umfrage]]></dc:subject>\n\n\t\t\t<description><![CDATA[Wir planen einen kleinen Hausladen anzubieten, in dem man das Notwendigste kaufen kann, bzw. Dinge, die man vergessen hat (z.B. Salz, Milch, Windeln, Kerzen). Denken Sie, dass so ein Laden auch Alkohol und/oder Zigaretten anbieten sollte? Nein, das muss nicht sein. Alkohol wäre schon gut. Zigaretten muss nicht sein. Zigaretten auf jeden Fall, Alkohol eher &#8230; <a href=\"https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/\" class=\"more-link\"><span class=\"screen-reader-text\">Umfrage: Alkohol &#038; Zigaretten</span> weiterlesen</a>]]></description>\n\t\t<content:encoded><![CDATA[\n<p>Wir planen einen kleinen Hausladen anzubieten, in dem man das Notwendigste kaufen kann, bzw. Dinge, die man vergessen hat (z.B. Salz, Milch, Windeln, Kerzen).</p>\n\n\n\n<p>Denken Sie, dass so ein Laden auch Alkohol und/oder Zigaretten anbieten sollte?</p>\n\n\n\n<ol><li>Nein, das muss nicht sein.</li><li>Alkohol wäre schon gut. Zigaretten muss nicht sein.</li><li>Zigaretten auf jeden Fall, Alkohol eher nicht</li><li>Nur E-Zigaretten bitte.</li><li>Alkohol und Zigaretten sollten im Angebot sein.</li></ol>\n]]></content:encoded>\n\t\n\t\n<bbbwpfiles postId=\"450\" author=\"Gewobag\">\n[]\n</bbbwpfiles>\n\n<bbbwpvoting url=\"https://cloud.bbblockchain.de/index.php/2020/02/14/umfrage-alkohol-zigaretten/\">\n  <type>tokens</type>\n  <start>14.02.2020 18:00:00</start>\n  <end>31.03.2020 23:59:59</end>\n  <question>\"Denken Sie, dass so ein Laden auch Alkohol und\\/oder Zigaretten anbieten sollte?\"</question>\n  <options>[\"Nein, das muss nicht sein.\",\"Alkohol w\\u00e4re schon gut. Zigaretten muss nicht sein.\",\"Zigaretten auf jeden Fall, Alkohol eher nicht\",\"Nur E-Zigaretten bitte.\",\"Alkohol und Zigaretten sollten im Angebot sein.\"]</options>\n</bbbwpvoting>\n</item>\n</rdf:RDF>\n",
+        "results": [
+          "42x Nein, das muss nicht sein.",
+          "13x Alkohol wäre schon gut. Zigaretten muss nicht sein.",
+          "3x Zigaretten auf jeden Fall, Alkohol eher nicht",
+          "0x Nur E-Zigaretten bitte.",
+          "18x Alkohol und Zigaretten sollten im Angebot sein."
+        ]
+      },
+      {
+        "address": "0xd44f4d4c711F60DF52584a2a6eb754990b6eEB47",
+        "start": 1581768536,
+        "end": 1585691999,
+        "countedVotes": 78,
+        "maximumVote": 3,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x292c0701a3047e164FFdb413Eca7ED033494124f",
+        "author": "",
+        "topic": "W\\u00fcrden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort g\\u00e4rtnern wollen?",
+        "title": "",
+        "multipleResponse": false,
+        "blockNumber": 0,
+        "blockHash": 0,
+        "optionsSet": 4,
+        "options": [
+          "Nein, der Dachgarten interessiert mich nicht.",
+          "Ich würde den Dachgarten zur Erholung nutzen, mehr nicht.",
+          "Ich könnte mir vorstellen, dort auch aktiv mit zu gärtnern.",
+          "Ich bin leidenschaftlicher Gärtner und könnte mir gut vorstellen, anderen zu zeigen, wie es geht."
+        ],
+        "rssPostUrl": "https://**CLOUD**/index.php/2020/02/15/umfrage-dachgarten/",
+        "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rdf:RDF\n\txmlns=\"http://purl.org/rss/1.0/\"\n\txmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:admin=\"http://webns.net/mvcb/\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\t>\n<channel rdf:about=\"https://cloud.bbblockchain.de\">\n\t<title>Umfrage: Dachgarten &#8211; BBBlockchain Cloud</title>\n\t<link>https://cloud.bbblockchain.de</link>\n\t<description>Administration</description>\n\t<dc:date>2020-02-15T11:52:24Z\t</dc:date>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>\n\t<admin:generatorAgent rdf:resource=\"https://wordpress.org/?v=5.9\" />\n\t<items>\n\t\t<rdf:Seq>\n\t\t\t\t\t<rdf:li rdf:resource=\"https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/\"/>\n\t\t\t\t</rdf:Seq>\n\t</items>\n</channel>\n<item rdf:about=\"https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/\">\n\t<title>Umfrage: Dachgarten</title>\n\t<link>https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/</link>\n\n\t<dc:creator><![CDATA[Gewobag]]></dc:creator>\n\t<dc:date>2020-02-15T11:52:24Z</dc:date>\n\t\t\t<dc:subject><![CDATA[Bülow90]]></dc:subject>\n\t\t<dc:subject><![CDATA[Umfrage]]></dc:subject>\n\n\t\t\t<description><![CDATA[Wir planen einen Teil des Daches so zu gestalten, dass er als Dachgarten — auch für den Anbau von Obst und Gemüse — genutzt werden kann. Würden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort gärtnern wollen? Nein, der Dachgarten interessiert mich nicht. Ich würde den Dachgarten zur Erholung nutzen, mehr nicht. Ich könnte mir &#8230; <a href=\"https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/\" class=\"more-link\"><span class=\"screen-reader-text\">Umfrage: Dachgarten</span> weiterlesen</a>]]></description>\n\t\t<content:encoded><![CDATA[\n<p>Wir planen einen Teil des Daches so zu gestalten, dass er als Dachgarten — auch für den Anbau von Obst und Gemüse — genutzt werden kann. </p>\n\n\n\n<p>Würden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort gärtnern wollen?</p>\n\n\n\n<ol><li>Nein, der Dachgarten interessiert mich nicht.</li><li>Ich würde den Dachgarten zur Erholung nutzen, mehr nicht.</li><li>Ich könnte mir vorstellen, dort auch aktiv mit zu gärtnern.</li><li>Ich bin leidenschaftlicher Gärtner und könnte mir gut vorstellen, anderen zu zeigen, wie es geht.</li></ol>\n]]></content:encoded>\n\t\n\t\n<bbbwpfiles postId=\"459\" author=\"Gewobag\">\n[]\n</bbbwpfiles>\n\n<bbbwpvoting url=\"https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-dachgarten/\">\n  <type>tokens</type>\n  <start>15.02.2020 13:00:00</start>\n  <end>31.03.2020 23:59:59</end>\n  <question>\"W\\u00fcrden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort g\\u00e4rtnern wollen?\"</question>\n  <options>[\"Nein, der Dachgarten interessiert mich nicht.\",\"Ich w\\u00fcrde den Dachgarten zur Erholung nutzen, mehr nicht.\",\"Ich k\\u00f6nnte mir vorstellen, dort auch aktiv mit zu g\\u00e4rtnern.\",\"Ich bin leidenschaftlicher G\\u00e4rtner und k\\u00f6nnte mir gut vorstellen, anderen zu zeigen, wie es geht.\"]</options>\n</bbbwpvoting>\n</item>\n</rdf:RDF>\n",
+        "results": [
+          "7x Nein, der Dachgarten interessiert mich nicht.",
+          "19x Ich würde den Dachgarten zur Erholung nutzen, mehr nicht.",
+          "45x Ich könnte mir vorstellen, dort auch aktiv mit zu gärtnern.",
+          "7x Ich bin leidenschaftlicher Gärtner und könnte mir gut vorstellen, anderen zu zeigen, wie es geht."
+        ]
+      },
+      {
+        "address": "0xC5785C2Fd9588874c521287248f52c3C1e55674E",
+        "start": 1581768671,
+        "end": 1585691999,
+        "countedVotes": 65,
+        "maximumVote": 4,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x292c0701a3047e164FFdb413Eca7ED033494124f",
+        "author": "",
+        "topic": "W\\u00fcrden Sie f\\u00fcr die Fahrradturm L\\u00f6sung zahlen oder lieber die kostenlose Kellervariante bevorzugen?",
+        "title": "",
+        "multipleResponse": false,
+        "blockNumber": 0,
+        "blockHash": 0,
+        "optionsSet": 5,
+        "options": [
+          "Mir reicht die kostenlose Kellervariante.",
+          "Für die Nutzung des Fahrradturms würde ich maximal € 5 pro Monat zahlen.",
+          "Ich würde maximal € 10 pro Monat zahlen.",
+          "Ich würde maximal € 15 pro Monat zahlen.",
+          "Ich würde maximal € 20 pro Monat zahlen."
+        ],
+        "rssPostUrl": "https://**CLOUD**/index.php/2020/02/15/umfrage-fahrradstellplaetze/",
+        "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rdf:RDF\n\txmlns=\"http://purl.org/rss/1.0/\"\n\txmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:admin=\"http://webns.net/mvcb/\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\t>\n<channel rdf:about=\"https://cloud.bbblockchain.de\">\n\t<title>Umfrage: Fahrradstellplätze &#8211; BBBlockchain Cloud</title>\n\t<link>https://cloud.bbblockchain.de</link>\n\t<description>Administration</description>\n\t<dc:date>2020-02-15T11:52:10Z\t</dc:date>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>\n\t<admin:generatorAgent rdf:resource=\"https://wordpress.org/?v=5.9\" />\n\t<items>\n\t\t<rdf:Seq>\n\t\t\t\t\t<rdf:li rdf:resource=\"https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/\"/>\n\t\t\t\t</rdf:Seq>\n\t</items>\n</channel>\n<item rdf:about=\"https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/\">\n\t<title>Umfrage: Fahrradstellplätze</title>\n\t<link>https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/</link>\n\n\t<dc:creator><![CDATA[Gewobag]]></dc:creator>\n\t<dc:date>2020-02-15T11:52:10Z</dc:date>\n\t\t\t<dc:subject><![CDATA[Bülow90]]></dc:subject>\n\t\t<dc:subject><![CDATA[Umfrage]]></dc:subject>\n\n\t\t\t<description><![CDATA[Wir planen ca. 200 Stellplätze für Fahrräder ein. Dazu haben wir mehrere Optionen erarbeitet. In der engeren Wahl sind zurzeit ein Fahrradturm im Garten oder der klassische Fahrradkeller. Der Fahrradturm schließt jedes Rad sicher und trocken ein und gibt es innerhalb von 20 Sekunden wieder ab. Eine spannende Lösung, die aber erhebliche Kosten verursacht, deshalb &#8230; <a href=\"https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/\" class=\"more-link\"><span class=\"screen-reader-text\">Umfrage: Fahrradstellplätze</span> weiterlesen</a>]]></description>\n\t\t<content:encoded><![CDATA[\n<p>Wir planen ca. 200 Stellplätze für Fahrräder ein. Dazu haben wir mehrere Optionen erarbeitet. In der engeren Wahl sind zurzeit ein Fahrradturm im Garten oder der klassische Fahrradkeller. <br> Der Fahrradturm schließt jedes Rad sicher und trocken ein und gibt es innerhalb von 20 Sekunden wieder ab. Eine spannende Lösung, die aber erhebliche Kosten verursacht, deshalb fragen wir uns, ob Sie für die Fahrradturm Lösung zahlen würden oder lieber die kostenlose Kellervariante bevorzugen würden.</p>\n\n\n\n<p>Würden Sie für die Fahrradturm Lösung zahlen oder lieber die kostenlose Kellervariante bevorzugen?</p>\n\n\n\n<ol><li>Mir reicht die kostenlose Kellervariante.</li><li>Für die Nutzung des Fahrradturms würde ich maximal € 5 pro Monat zahlen.</li><li>Ich würde maximal € 10 pro Monat zahlen.</li><li>Ich würde maximal € 15 pro Monat zahlen.</li><li>Ich würde maximal € 20 pro Monat zahlen.</li></ol>\n]]></content:encoded>\n\t\n\t\n<bbbwpfiles postId=\"457\" author=\"Gewobag\">\n[]\n</bbbwpfiles>\n\n<bbbwpvoting url=\"https://cloud.bbblockchain.de/index.php/2020/02/15/umfrage-fahrradstellplaetze/\">\n  <type>tokens</type>\n  <start>15.02.2020 13:00:00</start>\n  <end>31.03.2020 23:59:59</end>\n  <question>\"W\\u00fcrden Sie f\\u00fcr die Fahrradturm L\\u00f6sung zahlen oder lieber die kostenlose Kellervariante bevorzugen?\"</question>\n  <options>[\"Mir reicht die kostenlose Kellervariante.\",\"F\\u00fcr die Nutzung des Fahrradturms w\\u00fcrde ich maximal \\u20ac 5 pro Monat zahlen.\",\"Ich w\\u00fcrde maximal \\u20ac 10 pro Monat zahlen.\",\"Ich w\\u00fcrde maximal \\u20ac 15 pro Monat zahlen.\",\"Ich w\\u00fcrde maximal \\u20ac 20 pro Monat zahlen.\"]</options>\n</bbbwpvoting>\n</item>\n</rdf:RDF>\n",
+        "results": [
+          "31x Mir reicht die kostenlose Kellervariante.",
+          "25x Für die Nutzung des Fahrradturms würde ich maximal € 5 pro Monat zahlen.",
+          "8x Ich würde maximal € 10 pro Monat zahlen.",
+          "0x Ich würde maximal € 15 pro Monat zahlen.",
+          "1x Ich würde maximal € 20 pro Monat zahlen."
+        ]
+      },
+      {
+        "address": "0x968Eef402bbE9DeE735EB96F70Baee3cC724E2ca",
+        "start": 1581769676,
+        "end": 1585691999,
+        "countedVotes": 69,
+        "maximumVote": 2,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x292c0701a3047e164FFdb413Eca7ED033494124f",
+        "author": "",
+        "topic": "Entscheiden Sie: wollen Sie eine Waschmaschine\\/Trocknerraum im Haus haben?",
+        "title": "",
+        "multipleResponse": false,
+        "blockNumber": 0,
+        "blockHash": 0,
+        "optionsSet": 3,
+        "options": [
+          "Ja, würde ich auch selbst nutzen.",
+          "Nein, ich nutze lieber meine eigene Waschmaschine.",
+          "Waschmaschine brauche ich nicht, aber ein Trocknungsraum wäre gut."
+        ],
+        "rssPostUrl": "https://**CLOUD**/index.php/2020/02/15/abstimmung-waschkueche/",
+        "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rdf:RDF\n\txmlns=\"http://purl.org/rss/1.0/\"\n\txmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:admin=\"http://webns.net/mvcb/\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\t>\n<channel rdf:about=\"https://cloud.bbblockchain.de\">\n\t<title>Abstimmung: Waschküche &#8211; BBBlockchain Cloud</title>\n\t<link>https://cloud.bbblockchain.de</link>\n\t<description>Administration</description>\n\t<dc:date>2020-02-15T12:18:42Z\t</dc:date>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>\n\t<admin:generatorAgent rdf:resource=\"https://wordpress.org/?v=5.9\" />\n\t<items>\n\t\t<rdf:Seq>\n\t\t\t\t\t<rdf:li rdf:resource=\"https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-waschkueche/\"/>\n\t\t\t\t</rdf:Seq>\n\t</items>\n</channel>\n<item rdf:about=\"https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-waschkueche/\">\n\t<title>Abstimmung: Waschküche</title>\n\t<link>https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-waschkueche/</link>\n\n\t<dc:creator><![CDATA[Gewobag]]></dc:creator>\n\t<dc:date>2020-02-15T11:50:44Z</dc:date>\n\t\t\t<dc:subject><![CDATA[Bülow90]]></dc:subject>\n\t\t<dc:subject><![CDATA[Abstimmung]]></dc:subject>\n\n\t\t\t<description><![CDATA[Wir fragen uns, ob es noch zeitgemäß ist, eine Waschmaschine bzw. einen Trocknungsraum für alle Mieter im Haus oder Anwohner bereitzustellen. Entscheiden Sie: wollen Sie eine Waschmaschine/Trocknerraum im Haus haben? Ja, würde ich auch selbst nutzen. Nein, ich nutze lieber meine eigene Waschmaschine. Waschmaschine brauche ich nicht, aber ein Trocknungsraum wäre gut.]]></description>\n\t\t<content:encoded><![CDATA[\n<p>Wir fragen uns, ob es noch zeitgemäß ist, eine Waschmaschine bzw. einen Trocknungsraum für alle Mieter im Haus oder Anwohner bereitzustellen.</p>\n\n\n\n<p>Entscheiden Sie: wollen Sie eine Waschmaschine/Trocknerraum im Haus haben?</p>\n\n\n\n<ol><li>Ja, würde ich auch selbst nutzen.</li><li>Nein, ich nutze lieber meine eigene Waschmaschine.</li><li>Waschmaschine brauche ich nicht, aber ein Trocknungsraum wäre gut.</li></ol>\n]]></content:encoded>\n\t\n\t\n<bbbwpfiles postId=\"467\" author=\"Gewobag\">\n[]\n</bbbwpfiles>\n\n<bbbwpvoting url=\"https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-waschkueche/\">\n  <type>tokens</type>\n  <start>15.02.2020 13:00:00</start>\n  <end>31.03.2020 23:59:59</end>\n  <question>\"Entscheiden Sie: wollen Sie eine Waschmaschine\\/Trocknerraum im Haus haben?\"</question>\n  <options>[\"Ja, w\\u00fcrde ich auch selbst nutzen.\",\"Nein, ich nutze lieber meine eigene Waschmaschine.\",\"Waschmaschine brauche ich nicht, aber ein Trocknungsraum w\\u00e4re gut.\"]</options>\n</bbbwpvoting>\n</item>\n</rdf:RDF>\n",
+        "results": [
+          "14x Ja, würde ich auch selbst nutzen.",
+          "43x Nein, ich nutze lieber meine eigene Waschmaschine.",
+          "12x Waschmaschine brauche ich nicht, aber ein Trocknungsraum wäre gut."
+        ]
+      },
+      {
+        "address": "0x7bcA02CbB1936Db517645F1BDa18f4126d65bdf1",
+        "start": 1581769796,
+        "end": 1585691999,
+        "countedVotes": 69,
+        "maximumVote": 6,
+        "maximumVoteWeight": 1,
+        "hashTokens": "0x292c0701a3047e164FFdb413Eca7ED033494124f",
+        "author": "",
+        "topic": "Welche Ausstattung w\\u00e4re Ihnen am Wichtigsten?",
+        "title": "",
+        "multipleResponse": false,
+        "blockNumber": 0,
+        "blockHash": 0,
+        "optionsSet": 7,
+        "options": [
+          "Holzwerkstatt (z.B.: Sägen, Drechseln, Schraubzwingen etc)",
+          "Fahrradreparaturwerkstatt (z.B.: Fahrradständer, Spezialwerkzeug etc)",
+          "Töpferwerkstatt (z.B.: Töpferscheiben, Ofen etc)",
+          "Textilwerkstatt (z.B.: Nähmaschine, Overlock, Strickmaschine etc)",
+          "Elektronikwerkstatt (z.B.: Messgeräte, Lötkolben, Feinwerkzeug etc)",
+          "Copyshop (z.B.: A3 Laserdrucker, Scanner, Schneidematten, Laminiergerät etc)",
+          "3D Drucken"
+        ],
+        "rssPostUrl": "https://**CLOUD**/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/",
+        "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rdf:RDF\n\txmlns=\"http://purl.org/rss/1.0/\"\n\txmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:admin=\"http://webns.net/mvcb/\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\t>\n<channel rdf:about=\"https://cloud.bbblockchain.de\">\n\t<title>Abstimmung: Eine Werkstatt im Haus &#8211; BBBlockchain Cloud</title>\n\t<link>https://cloud.bbblockchain.de</link>\n\t<description>Administration</description>\n\t<dc:date>2020-02-15T12:18:57Z\t</dc:date>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>\n\t<admin:generatorAgent rdf:resource=\"https://wordpress.org/?v=5.9\" />\n\t<items>\n\t\t<rdf:Seq>\n\t\t\t\t\t<rdf:li rdf:resource=\"https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/\"/>\n\t\t\t\t</rdf:Seq>\n\t</items>\n</channel>\n<item rdf:about=\"https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/\">\n\t<title>Abstimmung: Eine Werkstatt im Haus</title>\n\t<link>https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/</link>\n\n\t<dc:creator><![CDATA[Gewobag]]></dc:creator>\n\t<dc:date>2020-02-15T12:18:57Z</dc:date>\n\t\t\t<dc:subject><![CDATA[Bülow90]]></dc:subject>\n\t\t<dc:subject><![CDATA[Abstimmung]]></dc:subject>\n\n\t\t\t<description><![CDATA[In der Bülow90 wird es zwei Werkstattbereiche geben, in denen man handwerklich arbeiten kann. Eine Grobwerkstatt für Arbeiten, die Dreck und/oder Lärm verursachen und eine Feinwerkstatt, für ruhigere und sauberere Arbeiten. Wir würden gerne verschiedene Arbeitsmöglichkeiten anbieten, aber der Platz ist begrenzt. Welche Ausstattung wäre Ihnen am Wichtigsten? Holzwerkstatt (z.B.: Sägen, Drechseln, Schraubzwingen etc) Fahrradreparaturwerkstatt &#8230; <a href=\"https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/\" class=\"more-link\"><span class=\"screen-reader-text\">Abstimmung: Eine Werkstatt im Haus</span> weiterlesen</a>]]></description>\n\t\t<content:encoded><![CDATA[\n<p>In der Bülow90 wird es zwei Werkstattbereiche geben, in denen man handwerklich arbeiten kann. Eine Grobwerkstatt für Arbeiten, die Dreck und/oder Lärm verursachen und eine Feinwerkstatt, für ruhigere und sauberere Arbeiten. Wir würden gerne verschiedene Arbeitsmöglichkeiten anbieten, aber der Platz ist begrenzt.</p>\n\n\n\n<p>Welche Ausstattung wäre Ihnen am Wichtigsten?</p>\n\n\n\n<ol><li>Holzwerkstatt (z.B.: Sägen, Drechseln, Schraubzwingen etc)</li><li>Fahrradreparaturwerkstatt (z.B.: Fahrradständer, Spezialwerkzeug etc)</li><li>Töpferwerkstatt (z.B.: Töpferscheiben, Ofen etc)</li><li>Textilwerkstatt (z.B.: Nähmaschine, Overlock, Strickmaschine etc)</li><li>Elektronikwerkstatt (z.B.: Messgeräte, Lötkolben, Feinwerkzeug etc)</li><li>Copyshop (z.B.: A3 Laserdrucker, Scanner, Schneidematten, Laminiergerät etc)</li><li>3D Drucken</li></ol>\n]]></content:encoded>\n\t\n\t\n<bbbwpfiles postId=\"464\" author=\"Gewobag\">\n[]\n</bbbwpfiles>\n\n<bbbwpvoting url=\"https://cloud.bbblockchain.de/index.php/2020/02/15/abstimmung-eine-werkstatt-im-haus/\">\n  <type>tokens</type>\n  <start>15.02.2020 13:00:00</start>\n  <end>31.03.2020 23:59:59</end>\n  <question>\"Welche Ausstattung w\\u00e4re Ihnen am Wichtigsten?\"</question>\n  <options>[\"Holzwerkstatt (z.B.: S\\u00e4gen, Drechseln, Schraubzwingen etc)\",\"Fahrradreparaturwerkstatt (z.B.: Fahrradst\\u00e4nder, Spezialwerkzeug etc)\",\"T\\u00f6pferwerkstatt (z.B.: T\\u00f6pferscheiben, Ofen etc)\",\"Textilwerkstatt (z.B.: N\\u00e4hmaschine, Overlock, Strickmaschine etc)\",\"Elektronikwerkstatt (z.B.: Messger\\u00e4te, L\\u00f6tkolben, Feinwerkzeug etc)\",\"Copyshop (z.B.: A3 Laserdrucker, Scanner, Schneidematten, Laminierger\\u00e4t etc)\",\"3D Drucken\"]</options>\n</bbbwpvoting>\n</item>\n</rdf:RDF>\n",
+        "results": [
+          "17x Holzwerkstatt (z.B.: Sägen, Drechseln, Schraubzwingen etc)",
+          "22x Fahrradreparaturwerkstatt (z.B.: Fahrradständer, Spezialwerkzeug etc)",
+          "6x Töpferwerkstatt (z.B.: Töpferscheiben, Ofen etc)",
+          "4x Textilwerkstatt (z.B.: Nähmaschine, Overlock, Strickmaschine etc)",
+          "3x Elektronikwerkstatt (z.B.: Messgeräte, Lötkolben, Feinwerkzeug etc)",
+          "11x Copyshop (z.B.: A3 Laserdrucker, Scanner, Schneidematten, Laminiergerät etc)",
+          "6x 3D Drucken"
+        ]
+      }
+    ],
+    "multiVotings": [
+      {
+        "type": 701,
+        "address": "0x15e38eca1A8Ec225B1106Aa01E2Fa48d8D866E1A",
+        "start": 1652685052,
+        "end": 1656626399,
+        "votings": [
+          {
+            "freetext": false,
+            "responses": 3,
+            "options": [
+              "Vortrag Intervallfasten;        1 x 1 Std; € 7",
+              "Asiatisch kochen;               1 x 3 Std; € 28",
+              "Kinderkleidung nähen;           5 x 2 Std; € 45",
+              "Computer Wissen für Einsteiger; 6 x 1 Std; € 72",
+              "Italienisch für Anfänger;       15 x 1 Std; € 120"
+            ],
+            "description": "In der Bülow90 soll es ein Bildungsangebot für AnwohnerInnen geben.",
+            "topic": "Wählen Sie maximal 3 Bildungsangebote aus, die Sie wahrnehmen würden."
+          },
+          {
+            "freetext": false,
+            "responses": 5,
+            "options": [
+              "Nachmittags",
+              "Vormittags",
+              "Abends",
+              "Am Wochenende",
+              "Wochentags"
+            ],
+            "topic": "Wann würden Sie bevorzugt an Bildungsangeboten teilnehmen? (Mehrfachnennungen sind möglich)"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Einmaliges Angebot",
+              "Serienangebot"
+            ],
+            "topic": "Wie oft?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja, ich würde Ideen einbringen wollen",
+              "Ja, ich würde die Organisation übernehmen",
+              "Ja, ich könnte selbst unterrichten",
+              "Nein, ich würde nur teilnehmen",
+              "Nein, ich interessiert mich gar nicht"
+            ],
+            "description": "Nicht alle Bildungsangebote müssen von professionellen Tutoren unterrichtet werden - wir ermutigen auch Nachbarn ihre Kenntnisse zu teilen.",
+            "topic": "Könnten Sie sich vorstellen, bei der Gestaltung des Bildungsangebotes mitzuhelfen?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Ich habe schon mal etwas davon gehört",
+              "Nein"
+            ],
+            "topic": "Kennen Sie das Konzept eines Unverpackt-Ladens?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ich finde das Konzept gut",
+              "Ich stehe dem Konzept neutral gegenüber",
+              "Ich finde das Konzept nicht gut"
+            ],
+            "description": "Unverpackt-Läden bieten ihr Sortiment (meist bio) ohne Verpackung an. Kunden können genau bestimmen wie viel Gramm von Lebensmittel sie kaufen möchten und dadurch Lebenesmittelabfälle und Verpackungen vermeiden.",
+            "topic": "Wie finden Sie das Konzept eines Unverpackt-Ladens?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Eher ja",
+              "Vielleicht",
+              "Eher nein",
+              "Nein"
+            ],
+            "topic": "Würden Sie in einem Unverpackt-Laden einkaufen gehen, wenn dieser in der Nähe Ihres Zuhauses ist?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein"
+            ],
+            "description": "Würden Sie folgende Lebensmittel im Unverpackt-Laden kaufen? Als Referenzen erhalten Sie die Preise vom Supermarkt.",
+            "topic": "Müsli Eigenmarke 1kg für 2,49€; Müsli Eigenmarke 500g für 2,99€; Müsli unverpackt 500g für 3,29€"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein"
+            ],
+            "topic": "Reis Eigenmarke 500g für 1,79€; Reis Markenprodukt 500g für 2,59€; Reis unverpackt 500g für 3,10€"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein"
+            ],
+            "topic": "Nudeln Eigenmarke 500g für 1,39€; Nudeln Markenprodukt 500g für 1,99€; Nudeln unverpackt 500g für 2,59€"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Ich habe schon mal etwas von davon gehört",
+              "Nein"
+            ],
+            "topic": "Kennen Sie das Konzept von gemeinschaftlichem Wohnen bei dem bestimmte Räume gemeinschaftlich genutzt werden?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "description": "Welche Räume wären Sie bereit zu teilen?",
+            "topic": "Bad"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Wohnzimmer"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Küche"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Balkon"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Waschküche"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Flur"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Finde ich super, ich würde gerne so leben",
+              "Finde ich gut, könnte ich mir vorstellen",
+              "Ich weiß noch nicht wie ich so was finde",
+              "Finde ich nicht für mich geeignet"
+            ],
+            "topic": "Was halten Sie von einer solchen Wohnform?"
+          },
+          {
+            "freetext": true,
+            "responses": 0,
+            "options": "Freetext",
+            "topic": "Welche Vorteile erwarten Sie von diesem Wohnkonzept?"
+          },
+          {
+            "freetext": true,
+            "responses": 0,
+            "options": "Freetext",
+            "topic": "Welche Nachteile erwarten Sie von diesem Wohnkonzept?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "description": "Könnten Sie sich vorstellen, folgende Services rund ums Wohnen in Anspruch zu nehmen?",
+            "topic": "Wasch- und Bügelservice"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Lebensmittellieferungen"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Essenslieferungen"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Getränkelieferungen"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Putzservice"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Paketboxen"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Reparaturwerkstatt (Repair Café)"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Betreuungsservices"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Smart Home Paket (Licht, Heizung)"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "topic": "Etwas anderes"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Unter 1 km",
+              "1-5 km",
+              "5-10 km",
+              "Mehr als 10 km",
+              "Keine Angabe"
+            ],
+            "topic": "Wie weit entfernt wohnen Sie vom U-Bahnhof Bülowstr.?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Unter 18",
+              "18-34",
+              "35-50",
+              "50-64",
+              "Über 64",
+              "Keine Angabe"
+            ],
+            "topic": "Welcher Altersgruppe gehören Sie an?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Weiblich",
+              "Männlich",
+              "Anderes",
+              "Keine Angabe"
+            ],
+            "topic": "Welchem Geschlecht fühlen Sie sich zugehörig?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Ja",
+              "Nein"
+            ],
+            "description": "Nutzerbefragrung: Wir sind an der Verbesserung unserer App interessiert.",
+            "topic": "Haben Sie BBBlockchain schon einmal benutzt?"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stimme überhaupt nicht zu",
+              "Stimmme nicht zu",
+              "Neutral",
+              "Stimme zu",
+              "Stimme voll und ganz zu"
+            ],
+            "topic": "BBBlockchain ist intuitiv und einfach zu bedienen"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stimme überhaupt nicht zu",
+              "Stimmme nicht zu",
+              "Neutral",
+              "Stimme zu",
+              "Stimme voll und ganz zu"
+            ],
+            "topic": "BBBlockchain ist etwas neues für mich, dass ich vorher noch nicht kannte"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stimme überhaupt nicht zu",
+              "Stimmme nicht zu",
+              "Neutral",
+              "Stimme zu",
+              "Stimme voll und ganz zu"
+            ],
+            "topic": "Ich fühle mich durch die Benutzung von BBBlockchain involviert"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stimme überhaupt nicht zu",
+              "Stimmme nicht zu",
+              "Neutral",
+              "Stimme zu",
+              "Stimme voll und ganz zu"
+            ],
+            "topic": "Ich habe das Gefühl, dass meine Teilnahme an BBBlockchain geschätzt wird und mein Beitrag berücksichtigt wird"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stimme überhaupt nicht zu",
+              "Stimmme nicht zu",
+              "Neutral",
+              "Stimme zu",
+              "Stimme voll und ganz zu"
+            ],
+            "topic": "Ich habe das Gefühl, dass ich durch die Nutzung von BBBlockchain einen direkten Nutzen habe"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stimme überhaupt nicht zu",
+              "Stimmme nicht zu",
+              "Neutral",
+              "Stimme zu",
+              "Stimme voll und ganz zu"
+            ],
+            "topic": "Ich habe das Gefühl, dass meine Informationen sicher sind, wenn ich BBBlockchain benutze"
+          }
+        ],
+        "title": "Umfrage: Bedürfnisse und Vorstellungen zur Bülow90",
+        "author": "Gewobag",
+        "requiresCaptcha": false,
+        "captcha": null,
+        "requiresEmail": true,
+        "voucher": "0x03482FBCeb5263f1b6dD3115eA478E188816510C",
+        "availableVouchers": 419,
+        "blockNumber": 10683680,
+        "blockHash": "0x241b92deb0d708fae8c9aa250f6977a93b89594a120982836a5975b8779ba9b0",
+        "results": {
+          "votes": 81,
+          "tokensIssued": 81,
+          "tokensConsumed": 8,
+          "votings": [
+            {
+              "topic": "Wählen Sie maximal 3 Bildungsangebote aus, die Sie wahrnehmen würden.",
+              "options": [
+                {
+                  "option": "Vortrag Intervallfasten;        1 x 1 Std; € 7",
+                  "votes": 27,
+                  "freetexts": []
+                },
+                {
+                  "option": "Asiatisch kochen;               1 x 3 Std; € 28",
+                  "votes": 50,
+                  "freetexts": []
+                },
+                {
+                  "option": "Kinderkleidung nähen;           5 x 2 Std; € 45",
+                  "votes": 18,
+                  "freetexts": []
+                },
+                {
+                  "option": "Computer Wissen für Einsteiger; 6 x 1 Std; € 72",
+                  "votes": 19,
+                  "freetexts": []
+                },
+                {
+                  "option": "Italienisch für Anfänger;       15 x 1 Std; € 120",
+                  "votes": 40,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Wann würden Sie bevorzugt an Bildungsangeboten teilnehmen? (Mehrfachnennungen sind möglich)",
+              "options": [
+                {
+                  "option": "Nachmittags",
+                  "votes": 20,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vormittags",
+                  "votes": 12,
+                  "freetexts": []
+                },
+                {
+                  "option": "Abends",
+                  "votes": 56,
+                  "freetexts": []
+                },
+                {
+                  "option": "Am Wochenende",
+                  "votes": 37,
+                  "freetexts": []
+                },
+                {
+                  "option": "Wochentags",
+                  "votes": 23,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Wie oft?",
+              "options": [
+                {
+                  "option": "Einmaliges Angebot",
+                  "votes": 35,
+                  "freetexts": []
+                },
+                {
+                  "option": "Serienangebot",
+                  "votes": 46,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Könnten Sie sich vorstellen, bei der Gestaltung des Bildungsangebotes mitzuhelfen?",
+              "options": [
+                {
+                  "option": "Ja, ich würde Ideen einbringen wollen",
+                  "votes": 14,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ja, ich würde die Organisation übernehmen",
+                  "votes": 8,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ja, ich könnte selbst unterrichten",
+                  "votes": 17,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein, ich würde nur teilnehmen",
+                  "votes": 40,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein, ich interessiert mich gar nicht",
+                  "votes": 2,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Kennen Sie das Konzept eines Unverpackt-Ladens?",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 63,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ich habe schon mal etwas davon gehört",
+                  "votes": 9,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 9,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Wie finden Sie das Konzept eines Unverpackt-Ladens?",
+              "options": [
+                {
+                  "option": "Ich finde das Konzept gut",
+                  "votes": 63,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ich stehe dem Konzept neutral gegenüber",
+                  "votes": 14,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ich finde das Konzept nicht gut",
+                  "votes": 4,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Würden Sie in einem Unverpackt-Laden einkaufen gehen, wenn dieser in der Nähe Ihres Zuhauses ist?",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 40,
+                  "freetexts": []
+                },
+                {
+                  "option": "Eher ja",
+                  "votes": 19,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 13,
+                  "freetexts": []
+                },
+                {
+                  "option": "Eher nein",
+                  "votes": 9,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 0,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Müsli Eigenmarke 1kg für 2,49€; Müsli Eigenmarke 500g für 2,99€; Müsli unverpackt 500g für 3,29€",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 51,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 30,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Reis Eigenmarke 500g für 1,79€; Reis Markenprodukt 500g für 2,59€; Reis unverpackt 500g für 3,10€",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 44,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 37,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Nudeln Eigenmarke 500g für 1,39€; Nudeln Markenprodukt 500g für 1,99€; Nudeln unverpackt 500g für 2,59€",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 42,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 39,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Kennen Sie das Konzept von gemeinschaftlichem Wohnen bei dem bestimmte Räume gemeinschaftlich genutzt werden?",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 53,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ich habe schon mal etwas von davon gehört",
+                  "votes": 23,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 5,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Bad",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 8,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 63,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 10,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Wohnzimmer",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 17,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 45,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 19,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Küche",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 23,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 40,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 18,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Balkon",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 35,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 25,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 21,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Waschküche",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 61,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 12,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 8,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Flur",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 51,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 15,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 15,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Was halten Sie von einer solchen Wohnform?",
+              "options": [
+                {
+                  "option": "Finde ich super, ich würde gerne so leben",
+                  "votes": 14,
+                  "freetexts": []
+                },
+                {
+                  "option": "Finde ich gut, könnte ich mir vorstellen",
+                  "votes": 25,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ich weiß noch nicht wie ich so was finde",
+                  "votes": 19,
+                  "freetexts": []
+                },
+                {
+                  "option": "Finde ich nicht für mich geeignet",
+                  "votes": 23,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Welche Vorteile erwarten Sie von diesem Wohnkonzept?",
+              "options": [],
+              "freetext": true
+            },
+            {
+              "topic": "Welche Nachteile erwarten Sie von diesem Wohnkonzept?",
+              "options": [],
+              "freetext": true
+            },
+            {
+              "topic": "Wasch- und Bügelservice",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 32,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 24,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 25,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Lebensmittellieferungen",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 40,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 18,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 23,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Essenslieferungen",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 44,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 15,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 22,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Getränkelieferungen",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 51,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 13,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 17,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Putzservice",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 51,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 15,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 15,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Paketboxen",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 61,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 3,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 17,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Reparaturwerkstatt (Repair Café)",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 67,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 3,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 11,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Betreuungsservices",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 31,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 28,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 22,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Smart Home Paket (Licht, Heizung)",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 30,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 28,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 23,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Etwas anderes",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 20,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 28,
+                  "freetexts": []
+                },
+                {
+                  "option": "Vielleicht",
+                  "votes": 33,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Wie weit entfernt wohnen Sie vom U-Bahnhof Bülowstr.?",
+              "options": [
+                {
+                  "option": "Unter 1 km",
+                  "votes": 42,
+                  "freetexts": []
+                },
+                {
+                  "option": "1-5 km",
+                  "votes": 20,
+                  "freetexts": []
+                },
+                {
+                  "option": "5-10 km",
+                  "votes": 11,
+                  "freetexts": []
+                },
+                {
+                  "option": "Mehr als 10 km",
+                  "votes": 7,
+                  "freetexts": []
+                },
+                {
+                  "option": "Keine Angabe",
+                  "votes": 1,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Welcher Altersgruppe gehören Sie an?",
+              "options": [
+                {
+                  "option": "Unter 18",
+                  "votes": 2,
+                  "freetexts": []
+                },
+                {
+                  "option": "18-34",
+                  "votes": 33,
+                  "freetexts": []
+                },
+                {
+                  "option": "35-50",
+                  "votes": 23,
+                  "freetexts": []
+                },
+                {
+                  "option": "50-64",
+                  "votes": 16,
+                  "freetexts": []
+                },
+                {
+                  "option": "Über 64",
+                  "votes": 7,
+                  "freetexts": []
+                },
+                {
+                  "option": "Keine Angabe",
+                  "votes": 0,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Welchem Geschlecht fühlen Sie sich zugehörig?",
+              "options": [
+                {
+                  "option": "Weiblich",
+                  "votes": 50,
+                  "freetexts": []
+                },
+                {
+                  "option": "Männlich",
+                  "votes": 28,
+                  "freetexts": []
+                },
+                {
+                  "option": "Anderes",
+                  "votes": 2,
+                  "freetexts": []
+                },
+                {
+                  "option": "Keine Angabe",
+                  "votes": 1,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Haben Sie BBBlockchain schon einmal benutzt?",
+              "options": [
+                {
+                  "option": "Ja",
+                  "votes": 9,
+                  "freetexts": []
+                },
+                {
+                  "option": "Nein",
+                  "votes": 72,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "BBBlockchain ist intuitiv und einfach zu bedienen",
+              "options": [
+                {
+                  "option": "Stimme überhaupt nicht zu",
+                  "votes": 11,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimmme nicht zu",
+                  "votes": 1,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 23,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme zu",
+                  "votes": 15,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme voll und ganz zu",
+                  "votes": 31,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "BBBlockchain ist etwas neues für mich, dass ich vorher noch nicht kannte",
+              "options": [
+                {
+                  "option": "Stimme überhaupt nicht zu",
+                  "votes": 9,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimmme nicht zu",
+                  "votes": 3,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 18,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme zu",
+                  "votes": 6,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme voll und ganz zu",
+                  "votes": 45,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Ich fühle mich durch die Benutzung von BBBlockchain involviert",
+              "options": [
+                {
+                  "option": "Stimme überhaupt nicht zu",
+                  "votes": 10,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimmme nicht zu",
+                  "votes": 8,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 36,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme zu",
+                  "votes": 11,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme voll und ganz zu",
+                  "votes": 16,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Ich habe das Gefühl, dass meine Teilnahme an BBBlockchain geschätzt wird und mein Beitrag berücksichtigt wird",
+              "options": [
+                {
+                  "option": "Stimme überhaupt nicht zu",
+                  "votes": 9,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimmme nicht zu",
+                  "votes": 7,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 38,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme zu",
+                  "votes": 17,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme voll und ganz zu",
+                  "votes": 10,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Ich habe das Gefühl, dass ich durch die Nutzung von BBBlockchain einen direkten Nutzen habe",
+              "options": [
+                {
+                  "option": "Stimme überhaupt nicht zu",
+                  "votes": 13,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimmme nicht zu",
+                  "votes": 9,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 42,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme zu",
+                  "votes": 12,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme voll und ganz zu",
+                  "votes": 5,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Ich habe das Gefühl, dass meine Informationen sicher sind, wenn ich BBBlockchain benutze",
+              "options": [
+                {
+                  "option": "Stimme überhaupt nicht zu",
+                  "votes": 12,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimmme nicht zu",
+                  "votes": 10,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 41,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme zu",
+                  "votes": 11,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stimme voll und ganz zu",
+                  "votes": 7,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "address": "0x541e04D61d1EC04d4e3553cC636E1f3342D662Ec",
+    "name": "LNDW 2022",
+    "url": "https://**CLOUD**/index.php/category/lndw/",
+    "description": "In LNDW sollen in vier Bauabschnitten zwischen 250 und 280 Wohnungen entstehen, beginnend Ende 2022. Es wird auch geprüft, ob die bestehenden Gebäude um ein weiteres Stockwerk aufgestockt werden können. Außerdem sollen einige Gemeinschaftsräume wie ein Co-Working Space und ein Kindergarten entstehen.",
+    "start": 1656032968,
+    "end": 1657472968,
+    "visible": true,
+    "developer": "DSI",
+    "website": "https://www.digital-future.berlin",
+    "postalAddress": "Lange Nacht der Wissenschaften 2022",
+    "stakeHolders": [
+      "Mieterbeirat",
+      "TU",
+      "Bezirk",
+      "WBG"
+    ],
+    "stakeHolderTypes": [],
+    "imageUrls": [],
+    "usecases": [
+      "0x6E40992234ac327a9a7Bbf4Ea92D68C05fb6De04",
+      "0xc63A6fE4FeB21aB199E29752de7e80EE8dBc01d6",
+      "0xB38326953aFbA6768d9b2A42f13333e5252C38A5",
+      "0x3B7ebD7b0B4A7581C3897ea7A9fDbD64fcE46F4A"
+    ],
+    "votings": [],
+    "multiVotings": [
+      {
+        "type": 702,
+        "address": "0xB38326953aFbA6768d9b2A42f13333e5252C38A5",
+        "start": 1656753146,
+        "end": 1656799199,
+        "votings": [
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stark ablehnend",
+              "Ablehnend",
+              "Neutral",
+              "Zustimmend",
+              "Stark zustimmend"
+            ],
+            "topic": "Insgesamt war BBBlockchain einfach zu benutzen"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stark ablehnend",
+              "Ablehnend",
+              "Neutral",
+              "Zustimmend",
+              "Stark zustimmend"
+            ],
+            "topic": "Ich würde die App verwenden, um Informationen über die Stadtentwicklung in meiner Region zu erhalten"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stark ablehnend",
+              "Ablehnend",
+              "Neutral",
+              "Zustimmend",
+              "Stark zustimmend"
+            ],
+            "topic": "Ich würde die App nutzen, um meine Meinung zur Stadtentwicklung in meinem Gebiet zu äußern"
+          },
+          {
+            "freetext": false,
+            "responses": 1,
+            "options": [
+              "Stark ablehnend",
+              "Ablehnend",
+              "Neutral",
+              "Zustimmend",
+              "Stark zustimmend"
+            ],
+            "topic": "Ich sehe einen Mehrwert in der sicheren und überprüfbaren Kommunikation von Informationen durch die App"
+          }
+        ],
+        "title": "Geben Sie uns Feedback? Für die Wissenschaft!",
+        "author": "TU Berlin",
+        "requiresCaptcha": false,
+        "captcha": null,
+        "requiresEmail": false,
+        "voucher": "0xe5A1b8488c925Bf1BfC4290250d01CCc21dDb30f",
+        "availableVouchers": 169,
+        "blockNumber": 10932831,
+        "blockHash": "0x611dc9c68a55c4f29398b175be907f65601c6014196c8a749428f16ac531a61c",
+        "results": {
+          "votes": 31,
+          "tokensIssued": 31,
+          "tokensConsumed": 28,
+          "votings": [
+            {
+              "topic": "Insgesamt war BBBlockchain einfach zu benutzen",
+              "options": [
+                {
+                  "option": "Stark ablehnend",
+                  "votes": 0,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ablehnend",
+                  "votes": 1,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 5,
+                  "freetexts": []
+                },
+                {
+                  "option": "Zustimmend",
+                  "votes": 16,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stark zustimmend",
+                  "votes": 9,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Ich würde die App verwenden, um Informationen über die Stadtentwicklung in meiner Region zu erhalten",
+              "options": [
+                {
+                  "option": "Stark ablehnend",
+                  "votes": 2,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ablehnend",
+                  "votes": 2,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 1,
+                  "freetexts": []
+                },
+                {
+                  "option": "Zustimmend",
+                  "votes": 10,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stark zustimmend",
+                  "votes": 16,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Ich würde die App nutzen, um meine Meinung zur Stadtentwicklung in meinem Gebiet zu äußern",
+              "options": [
+                {
+                  "option": "Stark ablehnend",
+                  "votes": 0,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ablehnend",
+                  "votes": 0,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 1,
+                  "freetexts": []
+                },
+                {
+                  "option": "Zustimmend",
+                  "votes": 17,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stark zustimmend",
+                  "votes": 13,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            },
+            {
+              "topic": "Ich sehe einen Mehrwert in der sicheren und überprüfbaren Kommunikation von Informationen durch die App",
+              "options": [
+                {
+                  "option": "Stark ablehnend",
+                  "votes": 0,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ablehnend",
+                  "votes": 2,
+                  "freetexts": []
+                },
+                {
+                  "option": "Neutral",
+                  "votes": 6,
+                  "freetexts": []
+                },
+                {
+                  "option": "Zustimmend",
+                  "votes": 13,
+                  "freetexts": []
+                },
+                {
+                  "option": "Stark zustimmend",
+                  "votes": 10,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            }
+          ]
+        }
+      },
+      {
+        "type": 703,
+        "address": "0x3B7ebD7b0B4A7581C3897ea7A9fDbD64fcE46F4A",
+        "start": 1656753506,
+        "end": 1656799199,
+        "votings": [
+          {
+            "freetext": false,
+            "responses": 3,
+            "options": [
+              "Eine Paketstation",
+              "Eine Fahrradwerkstatt",
+              "Ein kleiner Lebensmittelladen"
+            ],
+            "topic": "Welche der folgenden Dienstleistungen würden Sie im Erdgeschoss eines der Gebäude in Anspruch nehmen wollen? (Mehrfachantworten möglich)"
+          }
+        ],
+        "title": "Abstimmung",
+        "author": "Wohnungsbausgesellschaft",
+        "requiresCaptcha": false,
+        "captcha": null,
+        "requiresEmail": false,
+        "voucher": "0x0000000000000000000000000000000000000000",
+        "availableVouchers": 0,
+        "blockNumber": 10932855,
+        "blockHash": "0x32bef1fa9854b76da97ea7c3c8e5d259fee7e44db95bdb388466fed6a03ea518",
+        "results": {
+          "votes": 29,
+          "tokensIssued": 0,
+          "tokensConsumed": 0,
+          "votings": [
+            {
+              "topic": "Welche der folgenden Dienstleistungen würden Sie im Erdgeschoss eines der Gebäude in Anspruch nehmen wollen? (Mehrfachantworten möglich)",
+              "options": [
+                {
+                  "option": "Eine Paketstation",
+                  "votes": 16,
+                  "freetexts": []
+                },
+                {
+                  "option": "Eine Fahrradwerkstatt",
+                  "votes": 16,
+                  "freetexts": []
+                },
+                {
+                  "option": "Ein kleiner Lebensmittelladen",
+                  "votes": 15,
+                  "freetexts": []
+                }
+              ],
+              "freetext": false
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
