@@ -88,10 +88,8 @@
 | &nbsp; | &nbsp; | 25x Finde ich gut, könnte ich mir vorstellen
 | &nbsp; | &nbsp; | 19x Ich weiß noch nicht wie ich so was finde
 | &nbsp; | &nbsp; | 23x Finde ich nicht für mich geeignet
-| Welche Vorteile erwarten Sie von diesem Wohnkonzept? | 2022-05-16 | undefined |
-
-| Welche Nachteile erwarten Sie von diesem Wohnkonzept? | 2022-05-16 | undefined |
-
+| Welche Vorteile erwarten Sie von diesem Wohnkonzept? | 2022-05-16 | Freetext (see decrypted JSON) |
+| Welche Nachteile erwarten Sie von diesem Wohnkonzept? | 2022-05-16 | Freetext (see decrypted JSON) |
 | Wasch- und Bügelservice | 2022-05-16 | 32x Ja |
 | &nbsp; | &nbsp; | 24x Nein
 | &nbsp; | &nbsp; | 25x Vielleicht
