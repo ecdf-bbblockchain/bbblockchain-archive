@@ -1,4 +1,4 @@
-# Herzlich willkommen &#8211; BBBlockchain Cloud
+# Herzlich willkommen
 
 - Author: bezirk_koepenick
 - Date: 2019-12-13

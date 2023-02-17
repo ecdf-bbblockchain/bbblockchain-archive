@@ -1,4 +1,4 @@
-# Änderungen im Bauplan &#8211; BBBlockchain Cloud
+# Änderungen im Bauplan
 
 - Author: housing_lndw
 - Date: 2022-07-02

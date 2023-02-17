@@ -1,4 +1,4 @@
-# Auszug aus der Stellungnahme des Mieterrates zur Investitionsplanung &#8211; BBBlockchain Cloud
+# Auszug aus der Stellungnahme des Mieterrates zur Investitionsplanung
 
 - Author: mieterrat_degewo
 - Date: 2020-03-11

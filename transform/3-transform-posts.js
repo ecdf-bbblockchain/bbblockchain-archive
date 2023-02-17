@@ -76,7 +76,7 @@ const contents = rdfFiles.map(file => {
 		const time =  matchDate[2];
 		const author =  matchAuthor[1];
 		const project =  matchProject[1];
-		const title =  matchTitle[1];
+		const title =  matchTitle[1].replace(" &#8211; BBBlockchain Cloud", "");
 
 		const fileName = project + "/Post " + date + "Z" + time + " by " + author + ".md";
 
@@ -99,7 +99,7 @@ for(file of contents) {
 	const md = 	"# " + file.title + "\n\n" +
 					"- Author: " + file.author + "\n" + 
 					"- Date: " + file.date + "\n" + 
-					"- Time: " + file.name + "\n\n" + 
+					"- Time: " + file.time + "\n\n" + 
 					"## Post"+ "\n\n" +
 					file.html;
 	

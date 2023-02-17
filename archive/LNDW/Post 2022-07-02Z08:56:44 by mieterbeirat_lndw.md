@@ -1,4 +1,4 @@
-# Bewertung des Mieterbeirats zur Informationsveranstaltung zum Entwicklungsprojekt LNDW &#8211; BBBlockchain Cloud
+# Bewertung des Mieterbeirats zur Informationsveranstaltung zum Entwicklungsprojekt LNDW
 
 - Author: mieterbeirat_lndw
 - Date: 2022-07-02

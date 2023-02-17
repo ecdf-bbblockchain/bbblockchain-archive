@@ -1,4 +1,4 @@
-# Dritte Phase des Bauprogramms &#8211; BBBlockchain Cloud
+# Dritte Phase des Bauprogramms
 
 - Author: housing_lndw
 - Date: 2022-07-02

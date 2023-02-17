@@ -1,4 +1,4 @@
-# Umfrage zum Forschungsprojekt &#8211; BBBlockchain Cloud
+# Umfrage zum Forschungsprojekt
 
 - Author: urd_kerstin
 - Date: 2020-03-05

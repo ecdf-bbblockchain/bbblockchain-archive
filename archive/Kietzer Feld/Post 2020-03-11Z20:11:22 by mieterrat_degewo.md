@@ -1,4 +1,4 @@
-# Einschätzung Mieterrat zur Infoveranstaltung Kietzer Feld, Rückmeldung MR an degewo &#8211; BBBlockchain Cloud
+# Einschätzung Mieterrat zur Infoveranstaltung Kietzer Feld, Rückmeldung MR an degewo
 
 - Author: mieterrat_degewo
 - Date: 2020-03-11

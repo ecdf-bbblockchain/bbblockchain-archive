@@ -1,4 +1,4 @@
-# Willkommen auf der BBBlockchain &#8211; BBBlockchain Cloud
+# Willkommen auf der BBBlockchain
 
 - Author: dsi_robert
 - Date: 2022-07-02

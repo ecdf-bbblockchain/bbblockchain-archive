@@ -1,4 +1,4 @@
-# InterviewpartnerInnen gesucht! &#8211; BBBlockchain Cloud
+# InterviewpartnerInnen gesucht!
 
 - Author: urd_kerstin
 - Date: 2021-12-06

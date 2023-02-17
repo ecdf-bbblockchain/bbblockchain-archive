@@ -1,4 +1,4 @@
-# Frage zum Wohnumfeld an das Landratsamt &#8211; BBBlockchain Cloud
+# Frage zum Wohnumfeld an das Landratsamt
 
 - Author: bezirk_lndw
 - Date: 2022-07-02

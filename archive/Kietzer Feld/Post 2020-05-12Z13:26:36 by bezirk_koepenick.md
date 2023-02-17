@@ -1,4 +1,4 @@
-# Wohnumfeld und Infrastruktur &#8211; Fragen an das Bezirksamt &#8211; BBBlockchain Cloud
+# Wohnumfeld und Infrastruktur &#8211; Fragen an das Bezirksamt
 
 - Author: bezirk_koepenick
 - Date: 2020-05-12

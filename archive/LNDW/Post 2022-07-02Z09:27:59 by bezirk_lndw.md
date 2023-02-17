@@ -1,4 +1,4 @@
-# Frage zum Baumbestand an das Landratsamt &#8211; BBBlockchain Cloud
+# Frage zum Baumbestand an das Landratsamt
 
 - Author: bezirk_lndw
 - Date: 2022-07-02
