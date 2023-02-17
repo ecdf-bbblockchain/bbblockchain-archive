@@ -129,12 +129,11 @@ fetch("https://interface.bbblockchain.de/projects").then((resp) => {
 	});
 }).then((projects) => {
 	return projects.map(project => {
-		let markdown = 	"| Topic | Date | Votes |\n" + 
-						"|-------|------|-------|\n" +
+		let markdown = 	"# " + project.name + " Votings\n\n" + 
 						project.sortedVotings.map(voting => {
-							return "| " + voting.topic + " | " + voting.date + " | " + voting.results[0] + " |\n" +
-									voting.results.slice(1).map(result => "| &nbsp; | &nbsp; | " + result).join("\n") + "\n";
-						}).join("");
+							return "## " + voting.topic + " (" + voting.date + ")\n" +
+									voting.results.map(result => "- " + result).join("\n");
+						}).join("\n\n");
 
 		//console.log(markdown)
 		fs.writeFileSync(project.name + ".md", markdown);
