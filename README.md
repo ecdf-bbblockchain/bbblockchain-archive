@@ -11,4 +11,5 @@ This repository contains a copy of all official BBBlockchain posts, files, and s
 
 - **./archive/** All posts in markdown files
 - **./voting/** All voting results in JSON
+- **./voting/votings.json** All votings in JSON
 - **./transform/** Scripts to transform BBBlockchain posts to markdown
