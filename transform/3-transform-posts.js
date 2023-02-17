@@ -119,7 +119,7 @@ uniqueProjects.map(project => {
 	fs.writeFileSync(project + ".md",
 		"| Date / Time | Author | Title |\n" +
 		"|-------------|--------|-------|\n" +
-		projectContents.map(content => "| " + content.date + " " + content.time + " | " + content.author + " | [" + content.title + "](./" + content.fileName + ") |").join("\n")
+		projectContents.map(content => "| " + content.date + " " + content.time + " | " + content.author + " | [" + content.title + "](./" + content.fileName.replace(/ /g, "%20") + ") |").join("\n")
 	);
 })
 
