@@ -1,6 +1,6 @@
 | Topic | Date | Votes |
 |-------|------|-------|
-| Wieviel w\u00e4ren Sie bereit, f\u00fcr diesen Service zu bezahlen? | 2020-02-14 | 13x Nichts. Ich nutze keine Paketstationen. |
+| Wieviel wären Sie bereit, für diesen Service zu bezahlen? | 2020-02-14 | 13x Nichts. Ich nutze keine Paketstationen. |
 | &nbsp; | &nbsp; | 37x Nichts. Ich würde sie nutzen, wenn sie kostenlos wäre, es gibt genug kostenlose Paketstationen im Kiez.
 | &nbsp; | &nbsp; | 22x € 3 pro Monat wäre mir diese Bequemlichkeit schon wert.
 | &nbsp; | &nbsp; | 3x Ich würde maximal € 10 pro Monat zahlen.
@@ -10,11 +10,11 @@
 | &nbsp; | &nbsp; | 3x Zigaretten auf jeden Fall, Alkohol eher nicht
 | &nbsp; | &nbsp; | 0x Nur E-Zigaretten bitte.
 | &nbsp; | &nbsp; | 18x Alkohol und Zigaretten sollten im Angebot sein.
-| W\u00fcrden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort g\u00e4rtnern wollen? | 2020-02-15 | 7x Nein, der Dachgarten interessiert mich nicht. |
+| Würden Sie den Dachgarten nutzen? Vielleicht sogar selbst dort gärtnern wollen? | 2020-02-15 | 7x Nein, der Dachgarten interessiert mich nicht. |
 | &nbsp; | &nbsp; | 19x Ich würde den Dachgarten zur Erholung nutzen, mehr nicht.
 | &nbsp; | &nbsp; | 45x Ich könnte mir vorstellen, dort auch aktiv mit zu gärtnern.
 | &nbsp; | &nbsp; | 7x Ich bin leidenschaftlicher Gärtner und könnte mir gut vorstellen, anderen zu zeigen, wie es geht.
-| W\u00fcrden Sie f\u00fcr die Fahrradturm L\u00f6sung zahlen oder lieber die kostenlose Kellervariante bevorzugen? | 2020-02-15 | 31x Mir reicht die kostenlose Kellervariante. |
+| Würden Sie für die Fahrradturm Lösung zahlen oder lieber die kostenlose Kellervariante bevorzugen? | 2020-02-15 | 31x Mir reicht die kostenlose Kellervariante. |
 | &nbsp; | &nbsp; | 25x Für die Nutzung des Fahrradturms würde ich maximal € 5 pro Monat zahlen.
 | &nbsp; | &nbsp; | 8x Ich würde maximal € 10 pro Monat zahlen.
 | &nbsp; | &nbsp; | 0x Ich würde maximal € 15 pro Monat zahlen.
@@ -22,7 +22,7 @@
 | Entscheiden Sie: wollen Sie eine Waschmaschine\/Trocknerraum im Haus haben? | 2020-02-15 | 14x Ja, würde ich auch selbst nutzen. |
 | &nbsp; | &nbsp; | 43x Nein, ich nutze lieber meine eigene Waschmaschine.
 | &nbsp; | &nbsp; | 12x Waschmaschine brauche ich nicht, aber ein Trocknungsraum wäre gut.
-| Welche Ausstattung w\u00e4re Ihnen am Wichtigsten? | 2020-02-15 | 17x Holzwerkstatt (z.B.: Sägen, Drechseln, Schraubzwingen etc) |
+| Welche Ausstattung wäre Ihnen am Wichtigsten? | 2020-02-15 | 17x Holzwerkstatt (z.B.: Sägen, Drechseln, Schraubzwingen etc) |
 | &nbsp; | &nbsp; | 22x Fahrradreparaturwerkstatt (z.B.: Fahrradständer, Spezialwerkzeug etc)
 | &nbsp; | &nbsp; | 6x Töpferwerkstatt (z.B.: Töpferscheiben, Ofen etc)
 | &nbsp; | &nbsp; | 4x Textilwerkstatt (z.B.: Nähmaschine, Overlock, Strickmaschine etc)
